@@ -1,0 +1,901 @@
+set_id;ver_id;reference_yt_id;yt_id;sample_group;worker_ind0;worker_ind1;worker_ind2;worker_ind3;worker_ind4;origin;seed;nlabel_mturk;label_mturk;label_expert;nlabel_expert;category_expert;nlabel;label;expert_id;music_ratio
+21;111;STuFITcXas0;AmTcG2W6N7Q;DisAgrMus;2;2;2;;;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.890487822506548
+21;111;STuFITcXas0;FUPbOa6wvAU;DisAgrMus;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.809635884663768
+21;111;STuFITcXas0;Lxk-9VFycjc;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.923465438741722
+21;111;STuFITcXas0;ODsC3nuGluE;DisAgrTxt;2;2;2;;;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.843071713654891
+21;111;STuFITcXas0;Qkn2PFxFe1Y;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.998182321102061
+21;111;STuFITcXas0;bUTklFbeZWE;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;
+21;111;STuFITcXas0;dHoo6LAK_HA;DisAgrMus;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.951465441867344
+21;111;STuFITcXas0;uwevOLbBrd8;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.925598113954216
+21;111;STuFITcXas0;zCWJQEnzp8Y;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.759064844455099
+58;100;mEl_eQQ_q0c;0u0M4CMq7uI;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.972722634539333
+58;100;mEl_eQQ_q0c;7ZA3HIGsPM0;DisAgrTxt;2;2;1;1;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.79608074338155
+58;100;mEl_eQQ_q0c;B_rt1JsAdQs;DisAgrMus;2;2;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.991297572415587
+58;100;mEl_eQQ_q0c;GgiCroHhyZQ;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+58;100;mEl_eQQ_q0c;Q7sd7EhnB44;DisAgrMus;2;2;2;1;1;expert;False;2;Version;Non-Version;1;Video: Low Fidelity;1;Non-Version;0;0.980285473215425
+58;100;mEl_eQQ_q0c;XXkTKkspQBI;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.979475223045695
+58;100;mEl_eQQ_q0c;dWad144G8pQ;MutUnc;1;1;2;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;0.957754036668202
+58;100;mEl_eQQ_q0c;kMU2S4G7qkY;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.96932276844352
+58;100;mEl_eQQ_q0c;wvm0nOtExb0;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.882658264519892
+63;28;uhWb-Avb9Yc;7BvN_0PAqlQ;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.979900693530088
+63;28;uhWb-Avb9Yc;BSByOeew1rU;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.96156428191541
+63;28;uhWb-Avb9Yc;BaJwCYzFRWU;MutUnc;2;3;0;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.986874276885539
+63;28;uhWb-Avb9Yc;DvTVMf9fLJg;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.997787023368331
+63;28;uhWb-Avb9Yc;FhIBYl-WMQc;DisAgrMus;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.99207675257139
+63;28;uhWb-Avb9Yc;SxwP9FHtFiE;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.949305759200394
+63;28;uhWb-Avb9Yc;eKPUD81KuBY;DisAgrMus;2;1;1;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.769045873289968
+63;28;uhWb-Avb9Yc;tgBgbuq6dp8;DisAgrTxt;2;2;2;;;expert;False;2;Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.979808743086129
+63;28;uhWb-Avb9Yc;zowz-EU9bI0;DisAgrMus;1;0;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.998186398648154
+81;0;P6tNV3DyaFU;0eP_aEyXTfA;DisAgrTxt;2;2;3;2;2;expert;False;2;Version;Version;2;Song: Medley;2;Version;0;
+81;0;P6tNV3DyaFU;5rJbYDh1lVw;DisAgrTxt;2;2;3;2;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.995751046802494
+81;0;P6tNV3DyaFU;AdSyTDp0Ssg;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.864063198971114
+81;0;P6tNV3DyaFU;gssRNw-Zt-4;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.930615166385037
+81;0;P6tNV3DyaFU;nkPNvuxeiSE;MutUnc;1;3;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.991272526197046
+81;0;P6tNV3DyaFU;raNc3s-coD4;DisAgrMus;0;0;0;0;1;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.808992874578933
+81;0;P6tNV3DyaFU;tZP1WNqbjmA;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Genre;1;Non-Version;0;0.879635545592423
+81;0;P6tNV3DyaFU;w73hEZKnDeA;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988768308694518
+81;0;P6tNV3DyaFU;xT-hG6-Hk-Y;DisAgrTxt;2;2;3;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.476223907959245
+96;33;1s_5oZqqVQk;86jeSodhfXw;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.976236118350793
+96;33;1s_5oZqqVQk;JmSXU6Yy45I;DisAgrTxt;2;0;1;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0
+96;33;1s_5oZqqVQk;QbIphnGyAbE;DisAgrMus;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.987558339786249
+96;33;1s_5oZqqVQk;TsLhh0MVc0M;MutUnc;2;1;1;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.886316451843974
+96;33;1s_5oZqqVQk;XxfBytzK6e4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.802254796875
+96;33;1s_5oZqqVQk;_MTXEMceIEw;DisAgrTxt;0;0;2;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.107928459539425
+96;33;1s_5oZqqVQk;dWRCooFKk3c;MutUnc;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.976502859466252
+96;33;1s_5oZqqVQk;girdko2YOjQ;DisAgrMus;2;1;1;2;2;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.910276564273089
+96;33;1s_5oZqqVQk;jWHr3cA7ApM;DisAgrMus;1;1;1;2;2;expert;False;1;Non-Version;Version;2;Video: Multiple Songs;2;Version;1;0.933062025254206
+157;18;Wo4GJ6YdDeY;-8HPq5zFM3M;DisAgrTxt;1;1;2;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.9616808067341
+157;18;Wo4GJ6YdDeY;26nq96at878;MutUnc;1;2;2;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.989880017533888
+157;18;Wo4GJ6YdDeY;2AuDhWiO2D4;DisAgrMus;1;0;1;;;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.973886839561856
+157;18;Wo4GJ6YdDeY;7yg05svXp98;DisAgrMus;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.937750317601632
+157;18;Wo4GJ6YdDeY;M04ynFYg19g;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.960049349590412
+157;18;Wo4GJ6YdDeY;aKmd60VSJgE;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.988676929527971
+157;18;Wo4GJ6YdDeY;feVjdWuENiQ;DisAgrMus;2;2;0;;;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.996057901245041
+157;18;Wo4GJ6YdDeY;o_ziuUbugug;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.999664603361458
+157;18;Wo4GJ6YdDeY;psXowLH825w;DisAgrTxt;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.999490017361111
+214;41;55XIdavZxCQ;34cC_QC6z40;DisAgrMus;2;1;2;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.997753160782443
+214;41;55XIdavZxCQ;7jxAjoXxws4;MutUnc;1;2;3;1;2;expert;False;2;Version;Version;2;Song: Difficult Cover;2;Version;0;0.972793115543414
+214;41;55XIdavZxCQ;A9hcJgtnm6Q;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.972197668039031
+214;41;55XIdavZxCQ;Y6mMTTncd1A;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+214;41;55XIdavZxCQ;glnUUt9y0iw;MutUnc;2;1;3;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999622365123821
+214;41;55XIdavZxCQ;pXdMW1BLPIM;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0066494010154083
+214;41;55XIdavZxCQ;s_M6qAQYfrw;DisAgrMus;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.851588522770729
+214;41;55XIdavZxCQ;wdBHH6ol3Fs;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.992144760108913
+214;41;55XIdavZxCQ;zpYOyW1apao;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+348;33;k6_8c0CyK3c;F1LZuQ9E4JQ;DisAgrMus;2;1;1;;;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.954434107569292
+348;33;k6_8c0CyK3c;L-Ds-FXGGQg;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.943346348747974
+348;33;k6_8c0CyK3c;YiadNVhaGwk;DisAgrMus;1;1;1;;;expert;False;1;Non-Version;Non-Version;1;Song: Same Genre;1;Non-Version;1;0.913301908052885
+348;33;k6_8c0CyK3c;ZD8YPY8RBQc;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.999546507972304
+348;33;k6_8c0CyK3c;bqemqb05rJY;DisAgrTxt;2;2;2;;;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;
+348;33;k6_8c0CyK3c;dnKWnwGfUuU;DisAgrTxt;2;2;2;;;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.973990028782895
+348;33;k6_8c0CyK3c;kKlzUKLOm_U;DisAgrMus;1;1;2;;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.996274690026748
+348;33;k6_8c0CyK3c;pJ4UWWPjV48;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.996435982382935
+348;33;k6_8c0CyK3c;ss_rk-RITts;DisAgrTxt;2;2;2;;;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.963900933034426
+350;16;7WHdnX2cDCQ;NjNn4bbbgSw;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.985808080846344
+350;16;7WHdnX2cDCQ;ObjIuRNrFKA;DisAgrTxt;0;0;0;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.250118994050147
+350;16;7WHdnX2cDCQ;R4KqBcqyGnU;DisAgrTxt;2;1;2;;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.998706622456395
+350;16;7WHdnX2cDCQ;Z1R47zAcLcs;DisAgrTxt;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.972335408578597
+350;16;7WHdnX2cDCQ;aii62acsp_E;DisAgrMus;2;1;3;;;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.592876859244383
+350;16;7WHdnX2cDCQ;d4QnalIHlVc;MutUnc;1;2;2;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.983090894872492
+350;16;7WHdnX2cDCQ;ksbjQzF8oZY;DisAgrMus;1;1;2;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.633041504202897
+350;16;7WHdnX2cDCQ;uDDB1MGnaMg;DisAgrMus;2;1;1;;;expert;False;1;Non-Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.986202548060637
+350;16;7WHdnX2cDCQ;w38PyfMrzdk;MutUnc;2;3;2;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.679010450064123
+369;17;6U_2UAgIOsY;VOtqWNQrSPo;DisAgrTxt;1;2;2;2;2;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.943295498206967
+369;17;6U_2UAgIOsY;doXn7j-LOV8;MutUnc;0;2;2;2;2;expert;False;2;Version;Version;2;Song: Single Instrument;2;Version;0;0.993331667877907
+369;17;6U_2UAgIOsY;hM7Ntv8p-DM;MutUnc;0;1;2;2;2;expert;False;2;Version;Version;2;Song: Single Instrument;2;Version;0;0.963031099759615
+369;17;6U_2UAgIOsY;kiYqPSDA9BQ;MutUnc;1;1;2;2;2;expert;True;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;
+369;17;6U_2UAgIOsY;mjhjpzzMElw;DisAgrMus;0;2;1;2;1;expert;False;1;Non-Version;Non-Version;1;Video: Low Fidelity;1;Non-Version;0;0.892715259308511
+369;17;6U_2UAgIOsY;tUqaieKiELc;DisAgrTxt;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.934488402046481
+369;17;6U_2UAgIOsY;u-WPUaje3As;DisAgrTxt;0;1;2;2;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.986885291030727
+369;17;6U_2UAgIOsY;uakmKGAwZKA;MutUnc;1;1;2;2;2;expert;False;2;Version;Version;2;Song: Single Instrument;2;Version;0;0.983081359863281
+369;17;6U_2UAgIOsY;zldHBEqI9gY;DisAgrMus;1;2;2;2;2;expert;False;2;Version;Version;2;Song: Difficult Cover;2;Version;0;0.984633881324946
+484;42;NZacSRcdN88;O4p_XCpSa_s;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.993655770668026
+484;42;NZacSRcdN88;OuCI3cblDJc;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.638487058133817
+484;42;NZacSRcdN88;QP6LNUKz-oQ;DisAgrMus;2;1;1;2;1;expert;False;1;Non-Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.997260079325807
+484;42;NZacSRcdN88;Spp3t9jqp_E;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+484;42;NZacSRcdN88;TIpi-2SGPuE;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.94508801511597
+484;42;NZacSRcdN88;TL5FejSGI1g;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.951361130549767
+484;42;NZacSRcdN88;gx0AY2pS0KI;DisAgrTxt;2;3;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0
+484;42;NZacSRcdN88;jqrj2ZJ5gQQ;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988733609467861
+484;42;NZacSRcdN88;t4eS4ixGMwo;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.912745519596438
+487;10;aiKFdR48pRA;DZncy1jxdw0;DisAgrMus;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.933901445650494
+487;10;aiKFdR48pRA;F74yaJ1uA_U;DisAgrTxt;2;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.999246892755682
+487;10;aiKFdR48pRA;FJtU8Swobgo;MutUnc;3;1;;;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.979807803583354
+487;10;aiKFdR48pRA;KLmSD1jdReg;DisAgrMus;3;3;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.971674893645622
+487;10;aiKFdR48pRA;YMe24aRwiwg;DisAgrTxt;0;0;;;;expert;False;0;No Music;No Music;0;Video: Similar Metadata;0;No Music;0;0
+487;10;aiKFdR48pRA;d3kiwIgtmL4;MutUnc;2;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.988825607922104
+487;10;aiKFdR48pRA;dkQ0OJ5Byls;MutUnc;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.822228133029776
+487;10;aiKFdR48pRA;e5IqZXsBpa8;DisAgrTxt;2;2;;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.910340266441231
+487;10;aiKFdR48pRA;jMgE61PjKKw;DisAgrMus;2;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.988797769201807
+526;14;97PAY9wl63E;EWR63pAt6vo;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.990116242439516
+526;14;97PAY9wl63E;PG6iJmbnOTY;DisAgrTxt;0;0;0;0;2;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+526;14;97PAY9wl63E;QEFWUIjyE9Y;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+526;14;97PAY9wl63E;QpljgJPFWl8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970905206590099
+526;14;97PAY9wl63E;VX9syCv8-Is;DisAgrMus;2;2;2;1;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.849668823278335
+526;14;97PAY9wl63E;hyvYH55ImaA;DisAgrMus;1;1;0;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;0.683463790255727
+526;14;97PAY9wl63E;jco3NWSsBP0;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0805117182302751
+526;14;97PAY9wl63E;ug48TpsX8Gk;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.987083880089549
+526;14;97PAY9wl63E;wmCBkySmRzU;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.867271646460062
+569;11;dLnHL11VDKA;8ylNwg_dx2g;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999369549418605
+569;11;dLnHL11VDKA;9p5JCxehc8U;DisAgrMus;2;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986440182803722
+569;11;dLnHL11VDKA;KPSuD27JCyY;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+569;11;dLnHL11VDKA;Q18VNSNJSSY;MutUnc;3;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.857192652433821
+569;11;dLnHL11VDKA;R3OZF6WubFI;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997198068440363
+569;11;dLnHL11VDKA;efhQKgaZUW8;DisAgrMus;3;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.983384777108342
+569;11;dLnHL11VDKA;lKmlixuUWmQ;MutUnc;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95738648832514
+569;11;dLnHL11VDKA;lyLE2Oeaap4;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.925831158955892
+569;11;dLnHL11VDKA;u8wXhZtVXrc;DisAgrMus;2;3;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.959071369696101
+624;44;FaUpLStwCl8;35K6vQRt67g;MutUnc;0;0;0;0;2;expert;False;0;No Music;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.993587261084049
+624;44;FaUpLStwCl8;Fd9446M-ASc;DisAgrTxt;1;1;1;1;2;expert;False;1;Non-Version;Version;2;Song: Vocal-Only;2;Version;0;0.654540342796506
+624;44;FaUpLStwCl8;GZXHBgjQjNM;DisAgrMus;1;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.971190203092916
+624;44;FaUpLStwCl8;PluC1cKFe18;DisAgrTxt;0;0;0;0;1;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.124443686096384
+624;44;FaUpLStwCl8;X9E1by7PocE;DisAgrMus;1;2;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.979209672322166
+624;44;FaUpLStwCl8;ddZ-0K1OmQo;MutUnc;1;1;1;1;3;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.975683726579502
+624;44;FaUpLStwCl8;dpLaoYw8xug;DisAgrMus;1;1;1;0;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.854842692575637
+624;44;FaUpLStwCl8;fJWmbLS2_ec;MutUnc;1;2;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.996273616650476
+624;44;FaUpLStwCl8;qsQqCg5VH3Q;DisAgrTxt;0;0;1;0;1;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0447517188819677
+629;18;EBxk1Oq_ysE;7Ifw8JhDBvs;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.960797631048387
+629;18;EBxk1Oq_ysE;7aWQAHYHu7o;DisAgrTxt;2;2;2;2;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.763246169285221
+629;18;EBxk1Oq_ysE;COiIC3A0ROM;DisAgrMus;1;2;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.976253364570059
+629;18;EBxk1Oq_ysE;H7_sqdkaAfo;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.985743743901447
+629;18;EBxk1Oq_ysE;MB1FPOuSVeM;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.994755739298495
+629;18;EBxk1Oq_ysE;Ot-q4Y6Vabw;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.988350548191278
+629;18;EBxk1Oq_ysE;Pu8JO56fwt8;DisAgrMus;2;2;2;2;;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.641234626392327
+629;18;EBxk1Oq_ysE;n20IWj9UnZ4;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;
+629;18;EBxk1Oq_ysE;ycUVxLc04b4;DisAgrTxt;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.452073364980855
+667;0;TLV4_xaYynY;7UOlGOIxFPo;DisAgrTxt;1;0;2;3;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.277501286233383
+667;0;TLV4_xaYynY;D6CKh7-EQAM;DisAgrMus;1;1;0;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.999531907921896
+667;0;TLV4_xaYynY;FHNlkS4T0LY;DisAgrMus;2;2;2;2;1;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.919163333703196
+667;0;TLV4_xaYynY;LN2dA5SFVHs;DisAgrTxt;0;0;1;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+667;0;TLV4_xaYynY;agdv3D2U1gU;DisAgrTxt;0;0;1;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+667;0;TLV4_xaYynY;dg9-mAXlglc;MutUnc;0;0;0;2;2;expert;False;0;No Music;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.950570755004883
+667;0;TLV4_xaYynY;o0RlZ0DBJaQ;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.951068083018393
+667;0;TLV4_xaYynY;vpho0pIENH4;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.935800904865506
+667;0;TLV4_xaYynY;w3JxQg077EQ;MutUnc;1;1;3;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.963051633860088
+694;33;x_QkY8g_fHU;-EKoI4syu9A;DisAgrTxt;1;;;;;expert;False;1;Non-Version;Non-Version;1;Video: Multiple Songs;1;Non-Version;0;0.990390521581884
+694;33;x_QkY8g_fHU;9kA9gY-svvk;MutUnc;2;;;;;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.357461979649035
+694;33;x_QkY8g_fHU;HlfcfTisjks;DisAgrMus;1;;;;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.993468124241505
+694;33;x_QkY8g_fHU;I0DkyiiY9FM;DisAgrTxt;1;;;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.271260260796248
+694;33;x_QkY8g_fHU;YlD4fR09mco;DisAgrMus;2;;;;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.910022527521307
+694;33;x_QkY8g_fHU;_XoW4jKjIGs;MutUnc;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.987878148412855
+694;33;x_QkY8g_fHU;ifhS7HlvY7k;DisAgrTxt;2;;;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;
+694;33;x_QkY8g_fHU;v8xuGsSejn0;DisAgrMus;2;;;;;expert;False;1;Non-Version;Non-Version;1;Video: Low Fidelity;1;Non-Version;0;0.999167860671937
+694;33;x_QkY8g_fHU;yJle8j6OR4Y;MutUnc;1;;;;;expert;False;1;Non-Version;Non-Version;1;Video: In-Background;1;Non-Version;0;0.980897058975099
+724;36;9nPZE2DCZpY;K2TaB527JB4;MutUnc;3;0;1;1;0;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.614674435862468
+724;36;9nPZE2DCZpY;PQelnBwxYMw;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.962207297162185
+724;36;9nPZE2DCZpY;Y_V6y1ZCg_8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.982609664298009
+724;36;9nPZE2DCZpY;cjIvu7e6Wq8;DisAgrTxt;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.960841450556844
+724;36;9nPZE2DCZpY;egsPhiIW7nI;DisAgrMus;3;2;2;2;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.938724334818938
+724;36;9nPZE2DCZpY;iMRnM8bowKw;DisAgrTxt;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.995812611342043
+724;36;9nPZE2DCZpY;iMewtlmkV6c;MutUnc;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.990058182126222
+724;36;9nPZE2DCZpY;oKggZasWAck;DisAgrTxt;0;0;0;0;1;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+724;36;9nPZE2DCZpY;ryXzqqFm9Ts;DisAgrMus;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.974695911801719
+765;30;YaTQ7HMo1y4;2u5JwQx1-x0;DisAgrMus;1;2;;;;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.976031698069853
+765;30;YaTQ7HMo1y4;6DMA-cXQAl8;DisAgrMus;2;2;;;;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.876656448009402
+765;30;YaTQ7HMo1y4;Ia1clRcLK34;DisAgrTxt;0;0;;;;expert;False;0;No Music;No Music;0;Video: Similar Metadata;0;No Music;0;0.119274652085706
+765;30;YaTQ7HMo1y4;JeORr66ClGU;MutUnc;1;1;;;;expert;False;2;Version;Version;2;Song: Difficult Cover;2;Version;0;0.903199139628657
+765;30;YaTQ7HMo1y4;REm7_CfPyNw;MutUnc;1;2;;;;expert;False;1;Non-Version;Non-Version;1;Video: Multiple Songs;1;Non-Version;0;0.99979126025567
+765;30;YaTQ7HMo1y4;jK3STZQMfZQ;DisAgrMus;1;1;;;;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.990501102946777
+765;30;YaTQ7HMo1y4;svQD6mGDPXc;DisAgrTxt;2;0;;;;expert;True;0;No Music;No Music;0;Video: Similar Metadata;0;No Music;0;0
+765;30;YaTQ7HMo1y4;uSNXUqOmgLA;DisAgrTxt;0;0;;;;expert;False;0;No Music;No Music;0;Video: Similar Metadata;0;No Music;0;0
+765;30;YaTQ7HMo1y4;zkxt8YKIaVU;MutUnc;1;0;;;;expert;False;0;No Music;Version;2;Song: Mashup/Remix;2;Version;0;0.639361243853109
+794;20;T3_cgE8HzKo;AmRbQaSw6Po;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;
+794;20;T3_cgE8HzKo;Oim_iaJTqD8;DisAgrTxt;2;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.945477741917027
+794;20;T3_cgE8HzKo;ZRXGsPBUV5g;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+794;20;T3_cgE8HzKo;jpeB8p4b8Sg;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.98824941900712
+794;20;T3_cgE8HzKo;pXP1MSFwMnc;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;
+794;20;T3_cgE8HzKo;tqXa9SYso94;DisAgrTxt;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.990750357361191
+794;20;T3_cgE8HzKo;u7YcExpJz_c;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;
+794;20;T3_cgE8HzKo;u9ZkbKRFYTk;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.98613387991104
+794;20;T3_cgE8HzKo;uhz4bQXxEw4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.977286288765447
+838;15;TtGrYYTRcAg;1fzpQzuA7UE;DisAgrMus;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988376140763274
+838;15;TtGrYYTRcAg;2-WfFzTAJeM;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95041840817119
+838;15;TtGrYYTRcAg;7Wo-1vSmaZA;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95889106535712
+838;15;TtGrYYTRcAg;PTF5xgT-pm8;MutUnc;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.977479420092282
+838;15;TtGrYYTRcAg;cyrdPtEHKzE;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.96410668524649
+838;15;TtGrYYTRcAg;fApaOYQpZE8;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.992148260260153
+838;15;TtGrYYTRcAg;gLF-_Z8TK1k;DisAgrMus;0;0;1;0;0;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.906029119868319
+838;15;TtGrYYTRcAg;qfxrQFMvP8o;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.996442328559028
+838;15;TtGrYYTRcAg;z4PKzz81m5c;DisAgrMus;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.989035990449169
+897;9;gBjY8DagQXs;72fTwwijaZw;MutUnc;2;1;3;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.589521587042651
+897;9;gBjY8DagQXs;EPM3I8xKTP4;DisAgrMus;2;1;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;
+897;9;gBjY8DagQXs;JEXuiOJ2lJo;DisAgrMus;2;1;3;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.973083824946962
+897;9;gBjY8DagQXs;LmF7TJwUiF4;MutUnc;2;0;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.976831969087942
+897;9;gBjY8DagQXs;PjkmmTZXRjU;DisAgrTxt;2;1;2;2;2;expert;False;2;Version;Version;2;Song: Single Instrument;2;Version;0;0.825303623734107
+897;9;gBjY8DagQXs;bfbmBIWuoMo;DisAgrMus;2;1;2;3;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.987640490503368
+897;9;gBjY8DagQXs;i8nTNbVhHig;MutUnc;2;1;3;3;2;expert;False;1;Non-Version;Version;2;Song: Difficult Cover;2;Version;0;0.972013317828305
+897;9;gBjY8DagQXs;oYZl_olCUXg;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.88404128336633
+897;9;gBjY8DagQXs;sJLaaqUgzvM;DisAgrTxt;0;1;2;3;1;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.196825793178926
+922;36;po2y0gKBceY;8MUwBrHK85g;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.733716941226904
+922;36;po2y0gKBceY;Ad9VMFt1FDE;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.939165099047912
+922;36;po2y0gKBceY;IVzwueFUbvs;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999164569785048
+922;36;po2y0gKBceY;IkCPF2cDaIU;DisAgrMus;1;1;1;0;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.865826672576899
+922;36;po2y0gKBceY;Pe6dgDGed9Q;DisAgrTxt;2;2;1;2;2;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.988516512784091
+922;36;po2y0gKBceY;bkzsoJf-UsA;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.810449894852534
+922;36;po2y0gKBceY;hfhwa-G2Nqo;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986920337883574
+922;36;po2y0gKBceY;j7ohRNSC3gM;DisAgrMus;2;1;1;0;2;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.733334065190743
+922;36;po2y0gKBceY;o50V_tJIpR8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+993;16;YTs23jFAAes;78e8d4zDREU;DisAgrTxt;0;2;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+993;16;YTs23jFAAes;Cc-teiEgHp8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988951362941576
+993;16;YTs23jFAAes;Ib_eW9VSUwM;DisAgrMus;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.990391254528372
+993;16;YTs23jFAAes;Iu7VSPQDLvo;DisAgrMus;1;1;2;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.748843871360182
+993;16;YTs23jFAAes;KwJrjQCP1gw;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0079756854465333
+993;16;YTs23jFAAes;VWZ_H3uQjzQ;MutUnc;2;1;1;2;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.999161453985059
+993;16;YTs23jFAAes;peBHdh1O5q4;DisAgrMus;2;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.993722546501724
+993;16;YTs23jFAAes;rbJOZp4WUO8;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995822604909379
+993;16;YTs23jFAAes;wVUovqOHLCU;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.375305099328027
+1004;0;hTWKbfoikeg;6wLZhNoYY_c;DisAgrMus;0;2;1;0;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.953423220287471
+1004;0;hTWKbfoikeg;JnOfGY-WhjQ;MutUnc;2;3;1;3;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.754834546048217
+1004;0;hTWKbfoikeg;KoQC3gGwqro;DisAgrTxt;3;2;3;1;1;expert;False;0;No Music;Version;2;Song: Drum-Only;2;Version;0;0.327038918670423
+1004;0;hTWKbfoikeg;PjOMTR3Be1A;DisAgrMus;1;2;1;2;3;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.873731639741233
+1004;0;hTWKbfoikeg;do0s8NDIOtQ;MutUnc;1;1;1;1;2;expert;False;1;Non-Version;Version;2;Song: Mashup/Remix;2;Version;0;0.993546052218816
+1004;0;hTWKbfoikeg;fM5Zyr_Iw-Q;DisAgrMus;3;3;2;1;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.985680422575578
+1004;0;hTWKbfoikeg;lUHaXkcciEs;DisAgrTxt;2;2;2;2;1;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.662467561259575
+1004;0;hTWKbfoikeg;xUiWQJVnYQE;DisAgrTxt;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Mashup/Remix;1;Non-Version;0;0.921640783295667
+1004;0;hTWKbfoikeg;z9LiPuVRyU8;MutUnc;2;1;3;2;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.832623236492394
+1009;1;3HetQa0eyYk;1mNMe28rNuc;MutUnc;1;2;1;0;3;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.990829884746287
+1009;1;3HetQa0eyYk;38GjUF2IS18;DisAgrTxt;0;2;1;1;1;expert;False;1;Non-Version;Version;2;Song: Vocal-Only;2;Version;0;0.478594718491736
+1009;1;3HetQa0eyYk;3QGMCSCFoKA;DisAgrMus;1;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.982519346522392
+1009;1;3HetQa0eyYk;PH05OA_4qME;DisAgrTxt;0;0;0;0;1;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.731315983952703
+1009;1;3HetQa0eyYk;UAHr5VcUI3Q;MutUnc;2;2;3;3;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.771882512019231
+1009;1;3HetQa0eyYk;XekMkIJ843w;MutUnc;1;1;1;1;0;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.994507414469787
+1009;1;3HetQa0eyYk;aFt9C9brQY8;DisAgrTxt;0;0;0;0;3;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1009;1;3HetQa0eyYk;hBp4dgE7Bho;DisAgrMus;0;0;0;0;1;expert;False;0;No Music;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.984799842151535
+1009;1;3HetQa0eyYk;i3JybLTO_3g;DisAgrMus;1;2;1;0;2;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.984957812545044
+1035;17;Mk9yQt7FvCI;CBCyFLSW2aI;DisAgrMus;2;0;0;2;0;expert;False;0;No Music;Version;2;Song: Difficult Cover;2;Version;0;0.979499375978857
+1035;17;Mk9yQt7FvCI;HaNMIvwatto;DisAgrTxt;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.929384107268258
+1035;17;Mk9yQt7FvCI;Hmugfm-1n2A;DisAgrTxt;1;1;1;3;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999421492866848
+1035;17;Mk9yQt7FvCI;Kp5O9xvelWs;MutUnc;2;1;1;3;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.950886674360795
+1035;17;Mk9yQt7FvCI;YugSllQJgug;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1035;17;Mk9yQt7FvCI;gxJj084Vpdg;DisAgrTxt;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.974241727941176
+1035;17;Mk9yQt7FvCI;jH4YI1faPwU;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.968359192626425
+1035;17;Mk9yQt7FvCI;p9woC3Mrq9w;MutUnc;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.968629248388186
+1035;17;Mk9yQt7FvCI;tFGs7HP15d4;DisAgrMus;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.953799662626822
+1074;0;Am38jAK38DU;5dkpk1gmaDc;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995047345599756
+1074;0;Am38jAK38DU;AiIBKcd4m5Q;DisAgrMus;1;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.921498288855089
+1074;0;Am38jAK38DU;AnmZ932gszo;DisAgrMus;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.929567224039532
+1074;0;Am38jAK38DU;BRV6r2jaGx0;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.982617542279164
+1074;0;Am38jAK38DU;FIojvnr3uO8;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.768781647384636
+1074;0;Am38jAK38DU;NVnV-CfALFw;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.982898861349861
+1074;0;Am38jAK38DU;m_KGRqHwfJQ;DisAgrMus;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.944305587908544
+1074;0;Am38jAK38DU;o0ygIfzs3mI;MutUnc;2;2;2;2;1;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.929624375351914
+1074;0;Am38jAK38DU;pSADonusRZ0;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1163;14;e0fzLOjCaJA;4WMAakIf2TA;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997207676614846
+1163;14;e0fzLOjCaJA;8xYI2eVwefg;DisAgrTxt;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.962569217796582
+1163;14;e0fzLOjCaJA;ADIyC5iTTt4;MutUnc;1;2;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.904594782622345
+1163;14;e0fzLOjCaJA;AvMmAJfO-pk;DisAgrMus;2;1;1;2;1;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.828403121326411
+1163;14;e0fzLOjCaJA;LBrllMY7mrY;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Video: Low Fidelity;1;Non-Version;1;0.0293569755442723
+1163;14;e0fzLOjCaJA;copBvYVNHnA;DisAgrMus;2;2;1;2;1;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.838764432974674
+1163;14;e0fzLOjCaJA;i4aCCJnz9mc;MutUnc;2;1;2;1;1;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.817939243022964
+1163;14;e0fzLOjCaJA;kYJ8pkf1PEY;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.965870551842486
+1163;14;e0fzLOjCaJA;yN9auOLr4j8;DisAgrMus;2;1;1;2;1;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.710624973450952
+1205;12;IgJq6v6gA_4;2Xigou7ld7I;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.957550801819521
+1205;12;IgJq6v6gA_4;2uOMr4KWjkY;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95712602883553
+1205;12;IgJq6v6gA_4;OxFaD7hX1ow;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1205;12;IgJq6v6gA_4;Tjk0GnkJVdE;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.977730086826159
+1205;12;IgJq6v6gA_4;UFeSHBf4G_I;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.996272951254467
+1205;12;IgJq6v6gA_4;dqMUnqyngKQ;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1205;12;IgJq6v6gA_4;e3rTzc1NKT4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.952452817922273
+1205;12;IgJq6v6gA_4;o0HLqZ0JZs8;DisAgrTxt;0;2;0;2;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1205;12;IgJq6v6gA_4;vIoxrzjerA8;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.966535813737624
+1210;11;CM-EgnGvySA;HloB3xa28S8;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0
+1210;11;CM-EgnGvySA;LO6OaR5PK_w;DisAgrMus;1;1;2;1;2;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.720622871073426
+1210;11;CM-EgnGvySA;Mb1KLjbSk40;DisAgrMus;1;2;1;2;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;1;0.860087228548729
+1210;11;CM-EgnGvySA;WJv20c2flwY;MutUnc;1;2;1;2;2;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.991123141647739
+1210;11;CM-EgnGvySA;Y2boAKLqakk;MutUnc;1;1;2;1;2;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.839366579667457
+1210;11;CM-EgnGvySA;ZsNlcr4frs4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.885061671913628
+1210;11;CM-EgnGvySA;enJiLuH9YUA;DisAgrMus;1;1;1;3;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.907943713488421
+1210;11;CM-EgnGvySA;lj-CXo3GwJ0;DisAgrTxt;1;2;2;2;2;expert;False;2;Version;Version;2;Song: Difficult Cover;2;Version;0;0.944676177019696
+1210;11;CM-EgnGvySA;uWG4Nw9VCj0;DisAgrTxt;1;1;1;3;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1211;2;JsgJTvGscF4;0CTja8rP03o;DisAgrMus;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.957165045487253
+1211;2;JsgJTvGscF4;8gBW35tM5a0;DisAgrTxt;2;3;1;;;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.388504343159474
+1211;2;JsgJTvGscF4;C2utnTK-Jjc;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.994224350928404
+1211;2;JsgJTvGscF4;Cn1sUIs5yeE;DisAgrTxt;2;2;0;;;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.0693543211428705
+1211;2;JsgJTvGscF4;GG7fLOmlhYg;DisAgrMus;1;1;3;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.966482266512784
+1211;2;JsgJTvGscF4;KATpLCm8tlg;DisAgrMus;2;2;2;;;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.761833844866071
+1211;2;JsgJTvGscF4;QuTGY8VFsQY;DisAgrTxt;2;2;1;;;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.800579604014845
+1211;2;JsgJTvGscF4;bpd88Z-SP8Q;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.92014672271809
+1211;2;JsgJTvGscF4;zvddYF6MFAU;MutUnc;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.992170803363507
+1241;29;V8yQFE1kgbU;E20a5KcN0eo;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.968646871484968
+1241;29;V8yQFE1kgbU;NE3KJBD0LN8;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1241;29;V8yQFE1kgbU;NSkboTTTmpg;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.983552264450188
+1241;29;V8yQFE1kgbU;X9tDsFXBAeg;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.904807124761248
+1241;29;V8yQFE1kgbU;cBqVdLHq2B0;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.954315790863886
+1241;29;V8yQFE1kgbU;lEhySKqHQ_s;DisAgrTxt;3;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986258772876381
+1241;29;V8yQFE1kgbU;mL6u-AuP370;MutUnc;0;0;1;0;1;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.973681107954545
+1241;29;V8yQFE1kgbU;oPmMUZbnc3o;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.992085064827127
+1241;29;V8yQFE1kgbU;vUeQcvNeqZg;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.980367068834384
+1280;5;UkGXUn0Kuuw;833xjLhk834;DisAgrTxt;0;3;2;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1280;5;UkGXUn0Kuuw;HsffxGyY4ck;DisAgrMus;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.97772621217569
+1280;5;UkGXUn0Kuuw;M4vaJGYOSos;MutUnc;1;0;2;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.987653732299805
+1280;5;UkGXUn0Kuuw;RDoAHle7P0E;MutUnc;1;0;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.841236362641133
+1280;5;UkGXUn0Kuuw;Svf4QunLI6w;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.993707117268458
+1280;5;UkGXUn0Kuuw;_K1ogOk4ITk;MutUnc;1;0;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.998458331709028
+1280;5;UkGXUn0Kuuw;drDv9Ne5140;DisAgrMus;0;1;2;0;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;
+1280;5;UkGXUn0Kuuw;t-kR_3QTvIk;DisAgrTxt;2;2;1;2;1;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.973931768425498
+1280;5;UkGXUn0Kuuw;vHx0ePQ4cZg;DisAgrTxt;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.956137748386549
+1297;29;knxBue4jnUA;1qiRmm3Q4gM;MutUnc;1;1;1;3;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997657874455996
+1297;29;knxBue4jnUA;ENX8J1Itv8A;DisAgrTxt;2;2;2;0;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.403327815989307
+1297;29;knxBue4jnUA;Ezt-NlP2-uI;MutUnc;1;1;2;2;1;expert;False;1;Non-Version;Version;2;Song: Mashup/Remix;2;Version;0;0.945215290814119
+1297;29;knxBue4jnUA;VkDnVhy9kAk;DisAgrMus;3;2;3;3;1;expert;False;3;Match;Match;3;Placeholder: Non-Ambiguous;3;Match;0;0.965696911784477
+1297;29;knxBue4jnUA;WJrkg6VLo9I;MutUnc;2;1;2;3;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.985526591644226
+1297;29;knxBue4jnUA;biAVjLYHqMk;DisAgrMus;2;2;3;3;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.677031277497737
+1297;29;knxBue4jnUA;kZOEeyTi-_4;DisAgrTxt;3;0;3;2;1;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.190283203125
+1297;29;knxBue4jnUA;oq82YL7ZWIk;DisAgrMus;3;0;3;2;0;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.720032245282548
+1297;29;knxBue4jnUA;p8INPI09m6E;DisAgrTxt;1;2;2;3;1;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.977808064033902
+1332;7;viCwfegDamw;JcY7Gxdlc38;DisAgrTxt;1;2;2;1;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.991942864842108
+1332;7;viCwfegDamw;JtASR4iy5Jg;DisAgrTxt;0;2;2;1;1;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.99929781686231
+1332;7;viCwfegDamw;Kmd65MVsO70;DisAgrMus;2;1;2;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.994505657638142
+1332;7;viCwfegDamw;QaPWH6vfm20;DisAgrMus;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970678824632296
+1332;7;viCwfegDamw;aeb5xmeyRJY;DisAgrMus;2;1;1;0;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.971166848174092
+1332;7;viCwfegDamw;e9c-nq1f0wY;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995695062549877
+1332;7;viCwfegDamw;iuZTk1hdpMs;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.979914758350202
+1332;7;viCwfegDamw;wBZi7JIdSps;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.989081385979049
+1332;7;viCwfegDamw;zFFQQl-ZQVk;DisAgrTxt;0;0;0;1;1;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;1;0.945002736401964
+1333;13;lUb02EGeMuA;4Ssj11CJba0;DisAgrTxt;2;0;2;2;1;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.960829347984813
+1333;13;lUb02EGeMuA;HZy9_Z0NI7M;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.980627940578532
+1333;13;lUb02EGeMuA;IVpIcw5rZ2Q;DisAgrTxt;0;1;1;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1333;13;lUb02EGeMuA;KV2ssT8lzj8;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.949974045857032
+1333;13;lUb02EGeMuA;LKSgi08BdQQ;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.870038165207511
+1333;13;lUb02EGeMuA;W6U9h2S_R5k;MutUnc;2;2;2;2;1;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.933749584887559
+1333;13;lUb02EGeMuA;aCrmNTLA-xk;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.99980371562929
+1333;13;lUb02EGeMuA;buqD_rWOR8E;DisAgrTxt;1;2;2;2;1;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.990519031376665
+1333;13;lUb02EGeMuA;y-2MA5H0N8A;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.993250093005952
+1385;1;MRsDEuV9sS4;2fGnPQFY0KM;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.587883441216123
+1385;1;MRsDEuV9sS4;B26Dzrf-LVQ;DisAgrTxt;2;2;0;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;
+1385;1;MRsDEuV9sS4;CICIOJqEb5c;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.937498625552598
+1385;1;MRsDEuV9sS4;Le4eqSw6GMY;DisAgrMus;2;2;3;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;
+1385;1;MRsDEuV9sS4;NP3B0KN7BBo;DisAgrMus;1;2;3;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988632958088446
+1385;1;MRsDEuV9sS4;SLdvnQD_eio;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988351356907895
+1385;1;MRsDEuV9sS4;oHRNrgDIJfo;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.914589866062928
+1385;1;MRsDEuV9sS4;pvKUttYs5ow;DisAgrMus;1;1;3;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.969124611939062
+1385;1;MRsDEuV9sS4;wxkZG1FzVQ0;DisAgrTxt;2;2;1;2;2;expert;False;2;Version;Version;2;Song: Difficult Cover;2;Version;0;0.975199583889519
+1393;10;9-V0lwnWVTA;-D48-9ZIdRY;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Genre;1;Non-Version;0;0.881811011964257
+1393;10;9-V0lwnWVTA;3U9P4-ac0Lc;MutUnc;0;1;0;0;;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.855228721434617
+1393;10;9-V0lwnWVTA;4H3kJu-ORPU;DisAgrTxt;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.9658074645715
+1393;10;9-V0lwnWVTA;94je-Nsn5NI;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.993664070189469
+1393;10;9-V0lwnWVTA;DvePmN_c0ok;DisAgrTxt;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.994446535737457
+1393;10;9-V0lwnWVTA;LsyLgAdyJs4;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.966033015454186
+1393;10;9-V0lwnWVTA;OCUe3dN64as;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.936327216851364
+1393;10;9-V0lwnWVTA;aU0NRa9jd9Q;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1393;10;9-V0lwnWVTA;s1kVEOXph4Q;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.995964363589545
+1397;18;qPseJvXVVfo;A134hShx_gw;DisAgrMus;1;1;2;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.968341821024923
+1397;18;qPseJvXVVfo;NlwIDxCjL-8;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.962186686197917
+1397;18;qPseJvXVVfo;QJJYpsA5tv8;MutUnc;1;1;3;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.963400588877517
+1397;18;qPseJvXVVfo;QK-Z1K67uaA;DisAgrTxt;1;1;2;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.980944655157579
+1397;18;qPseJvXVVfo;f54g9F05ld8;DisAgrTxt;1;1;3;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.879257791367366
+1397;18;qPseJvXVVfo;ou3CWtmNUtQ;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.968167874906156
+1397;18;qPseJvXVVfo;unJ9j3r0LN8;DisAgrMus;1;1;3;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.952032889256194
+1397;18;qPseJvXVVfo;wda9LIcvP0k;DisAgrMus;2;2;3;;;expert;False;1;Non-Version;Version;2;Song: Difficult Cover;2;Version;0;0.980894504227517
+1397;18;qPseJvXVVfo;zpMfZPAc1kg;MutUnc;1;1;3;;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.972802304044873
+1474;0;IXdNnw99-Ic;0CZYO7ajY-M;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;1;0.961399463105329
+1474;0;IXdNnw99-Ic;17JuXSJEx2w;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;No Music;0;Video: Similar Metadata;0;No Music;0;0
+1474;0;IXdNnw99-Ic;JwYX52BP2Sk;MutUnc;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.972945321825972
+1474;0;IXdNnw99-Ic;Lq_jMMg63QA;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.989069755293462
+1474;0;IXdNnw99-Ic;V5ZyOoTTCy8;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.792191305320356
+1474;0;IXdNnw99-Ic;grPPOBLzvoo;DisAgrTxt;0;2;0;0;;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;1;0.942114092480248
+1474;0;IXdNnw99-Ic;lXgkuM2NhYI;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Genre;1;Non-Version;1;0.989479990273594
+1474;0;IXdNnw99-Ic;ujNeHIo7oTE;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.995333404177422
+1474;0;IXdNnw99-Ic;zfDG00hc_R0;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1520;0;P1Y_9mi63ps;Erkv1-_xR7U;MutUnc;1;2;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.837672087105598
+1520;0;P1Y_9mi63ps;KqaEgqRf9Rk;DisAgrTxt;0;1;0;1;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1520;0;P1Y_9mi63ps;UilhsrAQAzU;DisAgrMus;2;1;2;2;2;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;
+1520;0;P1Y_9mi63ps;a6_I_Kzb1HE;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.861797615152924
+1520;0;P1Y_9mi63ps;cX-Lwrgyg34;DisAgrTxt;0;2;2;1;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.552345047141841
+1520;0;P1Y_9mi63ps;kep1aOaHQ-8;DisAgrMus;2;1;1;1;2;expert;False;1;Non-Version;Version;2;Video: Low Fidelity;2;Version;0;0.989624364699424
+1520;0;P1Y_9mi63ps;t7wfdrxIyLY;MutUnc;2;2;2;1;3;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.927527205267672
+1520;0;P1Y_9mi63ps;tE-kmcgSBVo;DisAgrMus;2;2;2;1;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.909037662314498
+1520;0;P1Y_9mi63ps;tMJV7u1Wbtg;DisAgrTxt;2;2;2;1;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.545936760769423
+1521;27;MMjKNM_Q3S0;EmoZko8PdrE;DisAgrTxt;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;
+1521;27;MMjKNM_Q3S0;Ht0lPunQrTo;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986279135726073
+1521;27;MMjKNM_Q3S0;I-VsisgVkHw;DisAgrTxt;3;1;2;2;1;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.974392619885896
+1521;27;MMjKNM_Q3S0;O2CIAKVTOrc;DisAgrMus;1;1;3;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1521;27;MMjKNM_Q3S0;Vd-8SmjxnTA;DisAgrTxt;1;3;2;2;1;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.984252518424579
+1521;27;MMjKNM_Q3S0;hLQl3WQQoQ0;DisAgrMus;1;1;1;2;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.983626755521444
+1521;27;MMjKNM_Q3S0;ksdAs4LBRq8;DisAgrMus;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.934082479775574
+1521;27;MMjKNM_Q3S0;qmOLtTGvsbM;MutUnc;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.998633925956124
+1521;27;MMjKNM_Q3S0;rP09GUQFDFk;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.982371841827997
+1536;5;4rG0xVfW_0Q;B0nUwBBrJn8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.768092346191406
+1536;5;4rG0xVfW_0Q;HU0SZXcNNbY;DisAgrTxt;1;2;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.344738941935067
+1536;5;4rG0xVfW_0Q;OKWkYxikygQ;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.984858614115677
+1536;5;4rG0xVfW_0Q;PmDx0wPG7Cc;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.919112444196429
+1536;5;4rG0xVfW_0Q;_H234Qmgk9o;DisAgrTxt;2;2;2;2;0;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.755305445915971
+1536;5;4rG0xVfW_0Q;doLyYu_3eUU;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.368520158130074
+1536;5;4rG0xVfW_0Q;gHiILCHm22A;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.967053992094336
+1536;5;4rG0xVfW_0Q;hLCYTUaoqDM;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.900959536187267
+1536;5;4rG0xVfW_0Q;lMAM2lbUxQU;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999970527484263
+1680;3;GPC3vj_qDVU;5r3B7yz6J68;DisAgrMus;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.822617323386857
+1680;3;GPC3vj_qDVU;CCIG6nbyiUM;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.99490054870575
+1680;3;GPC3vj_qDVU;Q80_LmmJWno;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.987611878989585
+1680;3;GPC3vj_qDVU;V08ARqt7QHM;MutUnc;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.972482204694113
+1680;3;GPC3vj_qDVU;b7Rvsxa6OKU;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.933462717428955
+1680;3;GPC3vj_qDVU;cixhJpyTWko;DisAgrTxt;1;3;2;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.794863355005015
+1680;3;GPC3vj_qDVU;j3Uo24iNA4k;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.921312139096467
+1680;3;GPC3vj_qDVU;nMUG9GM3hNw;DisAgrTxt;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970517652153743
+1680;3;GPC3vj_qDVU;rZs2NvQy3bY;DisAgrMus;1;2;1;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.97900636034987
+1848;13;SSvhWM9s5SE;5Od3140xjeI;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.950267738709475
+1848;13;SSvhWM9s5SE;DCtouot15cA;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95952541636164
+1848;13;SSvhWM9s5SE;GiGxZg8Y8-U;DisAgrTxt;0;0;0;1;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1848;13;SSvhWM9s5SE;JvJWEbAkzd8;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1848;13;SSvhWM9s5SE;RmSJI1Kp0Es;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.791939151130776
+1848;13;SSvhWM9s5SE;dPZRDWLujsQ;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.98875696037645
+1848;13;SSvhWM9s5SE;kcuvgoaoOXA;DisAgrTxt;0;0;0;1;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1848;13;SSvhWM9s5SE;sFAoWwUwknc;DisAgrMus;0;1;0;0;1;expert;False;0;No Music;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.967534077308611
+1848;13;SSvhWM9s5SE;tBA8zdFuuTw;DisAgrTxt;0;0;0;1;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1919;15;VQgb-jR1MdU;1r-LKNTHISg;DisAgrTxt;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.982240965799904
+1919;15;VQgb-jR1MdU;3zc0REkdE0s;MutUnc;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.974001225976811
+1919;15;VQgb-jR1MdU;77Xop-lN84k;DisAgrMus;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Unavailable;1;Non-Version;;
+1919;15;VQgb-jR1MdU;N6gI1Q8OLX8;DisAgrMus;2;;;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.768254617079705
+1919;15;VQgb-jR1MdU;Ou4CrCMe_MU;DisAgrTxt;2;;;;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.0473865897700471
+1919;15;VQgb-jR1MdU;b_MHULLyBJ8;MutUnc;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.971195075720968
+1919;15;VQgb-jR1MdU;dHsOPYhe7HI;DisAgrMus;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.948694282857247
+1919;15;VQgb-jR1MdU;hyj4JFSErrw;MutUnc;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.916098582737407
+1919;15;VQgb-jR1MdU;tsZHJqnvurM;DisAgrTxt;1;;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.983746169285221
+1928;23;Dle5XEVmwCk;16Ky61VCCCg;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.206676329993844
+1928;23;Dle5XEVmwCk;JRUAK_57_6Q;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1928;23;Dle5XEVmwCk;MdojRpLSXA4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1928;23;Dle5XEVmwCk;TmfQQC1bsf4;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.933689574632315
+1928;23;Dle5XEVmwCk;ZAb6zEncigg;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.322235761753075
+1928;23;Dle5XEVmwCk;b09U0KLv6I4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.829330934710315
+1928;23;Dle5XEVmwCk;hwUKR_9Xdns;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.977815873635716
+1928;23;Dle5XEVmwCk;nUw8MpJBy3k;DisAgrTxt;2;0;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;
+1928;23;Dle5XEVmwCk;wDOqAmUSF9k;MutUnc;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.394530097831062
+1944;6;EyAbCbgiGFg;5cUitaVVCfY;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.536829942058237
+1944;6;EyAbCbgiGFg;DVzcQ4_khsM;MutUnc;1;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.991254718534658
+1944;6;EyAbCbgiGFg;ETomP5GD1k0;DisAgrTxt;1;2;2;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.611259354895891
+1944;6;EyAbCbgiGFg;NpOsY6HTgtI;DisAgrTxt;1;2;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0
+1944;6;EyAbCbgiGFg;OorZcOzNcgE;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1944;6;EyAbCbgiGFg;_0dq6SL8WRc;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+1944;6;EyAbCbgiGFg;eJW9N-h8UgI;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.839505578975866
+1944;6;EyAbCbgiGFg;fvrogxMHmlg;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.981327268028664
+1944;6;EyAbCbgiGFg;isCh4kCeNYU;MutUnc;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.937148714218876
+1976;1;x4ixBuhQGsw;Kc71KZG87X4;MutUnc;1;2;1;2;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;
+1976;1;x4ixBuhQGsw;LSYGIljR6sQ;MutUnc;1;1;1;2;3;worker;False;1;Non-Version;;;;1;Non-Version;;
+1976;1;x4ixBuhQGsw;OT31rzrY9Mg;DisAgrMus;1;2;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.993777056821843
+1976;1;x4ixBuhQGsw;anY0xZRQZZY;DisAgrMus;1;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.965651939205759
+1976;1;x4ixBuhQGsw;iXqf_2A8DbE;DisAgrTxt;2;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.966463156175156
+1976;1;x4ixBuhQGsw;oCiSmFvqjfU;DisAgrTxt;0;0;0;2;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1976;1;x4ixBuhQGsw;qUVUX_aP0hk;DisAgrTxt;0;0;2;2;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+1976;1;x4ixBuhQGsw;rFbKPcHtFAQ;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.980459375
+1976;1;x4ixBuhQGsw;zjxz90hLYtw;DisAgrMus;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.991704606346297
+2023;14;wOG5EBGOktw;2H39R2if3NM;MutUnc;0;0;0;0;0;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.326832112298159
+2023;14;wOG5EBGOktw;EDz0FKEJYRM;MutUnc;0;1;0;0;0;expert;False;0;No Music;Non-Version;1;Song: Similar;1;Non-Version;0;0.992118440831887
+2023;14;wOG5EBGOktw;N2gUlEN_Duk;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.982725007828015
+2023;14;wOG5EBGOktw;T7b3q5EickU;DisAgrTxt;1;1;2;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.986871957400154
+2023;14;wOG5EBGOktw;Tq54xNOclH0;DisAgrMus;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.870628384127475
+2023;14;wOG5EBGOktw;gtjqZjEM7_k;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.703122164818548
+2023;14;wOG5EBGOktw;q55acy9BqR0;DisAgrTxt;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.975830484542212
+2023;14;wOG5EBGOktw;wJ5s6DqWiyI;MutUnc;1;1;2;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.992732676630435
+2023;14;wOG5EBGOktw;ydedLa433q0;DisAgrMus;1;1;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.952928821314305
+2156;15;cZ1I9WXmIbY;Cx0xzO73Amo;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.954376683958191
+2156;15;cZ1I9WXmIbY;LVi_jUEL-Ys;DisAgrTxt;1;2;0;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+2156;15;cZ1I9WXmIbY;Tq0sbi2xAGE;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.761751327245058
+2156;15;cZ1I9WXmIbY;dTD-TcsUJ_g;DisAgrMus;2;1;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.970861947247792
+2156;15;cZ1I9WXmIbY;hkNl3pq1twE;DisAgrMus;2;2;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.95295592501945
+2156;15;cZ1I9WXmIbY;lGHcJ_-Hhps;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.942622958096591
+2156;15;cZ1I9WXmIbY;qQCBrLDIHfI;DisAgrTxt;2;0;0;;;expert;False;1;Non-Version;No Music;0;Video: Similar Metadata;0;No Music;0;0
+2156;15;cZ1I9WXmIbY;x4n33RGvPKA;DisAgrTxt;1;2;0;;;expert;False;1;Non-Version;No Music;0;Video: Similar Metadata;0;No Music;0;0
+2156;15;cZ1I9WXmIbY;xoNDAUNQXCE;DisAgrMus;1;1;1;;;expert;False;1;Non-Version;Version;2;Song: Mashup/Remix;2;Version;0;0.969168071012278
+2163;6;AeJ9d-U55TI;6gQ7m0c4ReI;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+2163;6;AeJ9d-U55TI;DyF2HNu_UCA;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.774784947412806
+2163;6;AeJ9d-U55TI;IJpwoQul69Y;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995848048010538
+2163;6;AeJ9d-U55TI;ThjbFUX0gHA;DisAgrMus;1;1;0;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.47316956964778
+2163;6;AeJ9d-U55TI;VqnAD_8pna0;DisAgrMus;1;1;1;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;0.859792058431346
+2163;6;AeJ9d-U55TI;cwnLx8oW4AA;DisAgrTxt;0;0;0;0;1;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0376221424367613
+2163;6;AeJ9d-U55TI;gjuFY5frfIM;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.731112355199353
+2163;6;AeJ9d-U55TI;jFk45ehwBEA;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0736936176624156
+2163;6;AeJ9d-U55TI;w38PyfMrzdk;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.679010450064123
+2195;18;j7JF6tf7OSQ;-j5Jb644eF8;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.992506070523649
+2195;18;j7JF6tf7OSQ;24AKYyNusvs;DisAgrTxt;2;1;2;2;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;
+2195;18;j7JF6tf7OSQ;MRJMqRu_lhU;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+2195;18;j7JF6tf7OSQ;RbmS3tQJ7Os;DisAgrMus;1;2;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.999164267563047
+2195;18;j7JF6tf7OSQ;W0bi7OfaKMY;MutUnc;1;0;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.929052545650694
+2195;18;j7JF6tf7OSQ;a2giXO6eyuI;DisAgrMus;0;0;1;0;0;expert;False;0;No Music;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.976111534856228
+2195;18;j7JF6tf7OSQ;e_fZbUpGplA;DisAgrMus;1;1;1;1;3;expert;False;1;Non-Version;Version;2;Song: Mashup/Remix;2;Version;0;0.975270663471171
+2195;18;j7JF6tf7OSQ;j1ZkAKLL_hA;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Slowed/Spedup;2;Version;0;0.990403893773034
+2195;18;j7JF6tf7OSQ;mvxQYPR4lmU;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986255427585318
+2215;13;JBWQqWxTNQk;MYPJOCxSUFc;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999814651523702
+2215;13;JBWQqWxTNQk;Otxb1x3Y3xI;DisAgrTxt;1;1;1;0;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.757789167212995
+2215;13;JBWQqWxTNQk;V27ISDEbZ_Y;DisAgrTxt;2;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.97433785831227
+2215;13;JBWQqWxTNQk;bJGfLjTPGd8;DisAgrTxt;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.985399346439027
+2215;13;JBWQqWxTNQk;hlkEQXUdb0E;DisAgrMus;0;0;0;0;0;expert;False;0;No Music;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.961374918619792
+2215;13;JBWQqWxTNQk;ilzvuie7Bks;DisAgrMus;1;1;1;2;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.990061540115038
+2215;13;JBWQqWxTNQk;l3LFML_pxlY;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995624074835526
+2215;13;JBWQqWxTNQk;tiDuEtS94Rg;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986820341320233
+2215;13;JBWQqWxTNQk;wzUEL7vw60U;MutUnc;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.974944146245504
+2273;16;DYxWF-A2zq4;BPiW0tkWfeg;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.899542859342583
+2273;16;DYxWF-A2zq4;DLOth-BuCNY;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.830973254788306
+2273;16;DYxWF-A2zq4;KGD2N5hJ2e0;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.988484964210894
+2273;16;DYxWF-A2zq4;RpoSnnjJ4YI;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.963554056892366
+2273;16;DYxWF-A2zq4;TMiAQPABgHA;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.994327698390763
+2273;16;DYxWF-A2zq4;f88FmExeyQ8;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.979151850817331
+2273;16;DYxWF-A2zq4;pldftoUbM80;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.975472226170072
+2273;16;DYxWF-A2zq4;s9NIBZfVBW4;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.852154836877244
+2273;16;DYxWF-A2zq4;wTaPhQAZdzA;DisAgrTxt;2;2;2;2;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.969902200617929
+2286;15;ky4xcWU7Z2U;-oKl_4p-4Hc;DisAgrMus;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.988047115586506
+2286;15;ky4xcWU7Z2U;0OFpWbD2tTA;MutUnc;0;0;1;0;3;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.510387326243729
+2286;15;ky4xcWU7Z2U;N9SC2beS06g;DisAgrTxt;0;0;0;0;3;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+2286;15;ky4xcWU7Z2U;esHUkiNnwDc;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.955123886189906
+2286;15;ky4xcWU7Z2U;fV6bWK1ik6w;DisAgrTxt;0;0;0;0;2;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.555757990056818
+2286;15;ky4xcWU7Z2U;flQM49WaCdw;DisAgrTxt;2;2;2;2;1;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.129566053556218
+2286;15;ky4xcWU7Z2U;jQKYFUDY_9g;DisAgrMus;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.96719247141192
+2286;15;ky4xcWU7Z2U;mWipwfGYHj8;MutUnc;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.976398715547079
+2286;15;ky4xcWU7Z2U;oMAo-RXkESk;DisAgrMus;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.605305153557786
+2447;0;YQWszrZHBPI;7vK9McSCTbs;MutUnc;0;1;1;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.718407103112313
+2447;0;YQWszrZHBPI;B5-uZrQRJBo;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.874796183792051
+2447;0;YQWszrZHBPI;ImcUew3UM9U;DisAgrTxt;2;2;0;;;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.563334187663409
+2447;0;YQWszrZHBPI;JihkKt-t8dg;DisAgrMus;1;2;1;;;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.98716030499793
+2447;0;YQWszrZHBPI;ROdEL1jlS98;DisAgrMus;2;2;2;;;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.973707795374602
+2447;0;YQWszrZHBPI;TFjmvfRvjTc;MutUnc;1;1;2;;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.975277320567507
+2447;0;YQWszrZHBPI;Ut1VsxWbcVE;DisAgrMus;2;2;3;;;expert;False;1;Non-Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.991654309022774
+2447;0;YQWszrZHBPI;YKiWpaMkU08;DisAgrTxt;0;0;3;;;expert;False;0;No Music;No Music;0;Video: Similar Metadata;0;No Music;0;0.0872819571659482
+2447;0;YQWszrZHBPI;Yfzrig2TpbY;MutUnc;2;1;1;;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.972582430545782
+2487;29;QKPGbEeuywc;70u2F_ryLDM;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.96638752140411
+2487;29;QKPGbEeuywc;9zneipHoPhA;DisAgrMus;1;0;0;1;0;expert;False;0;No Music;Non-Version;1;Video: Low Fidelity;1;Non-Version;0;
+2487;29;QKPGbEeuywc;D1FrGRKoHpk;DisAgrTxt;2;0;1;1;3;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0
+2487;29;QKPGbEeuywc;DjMnUk6VWVs;MutUnc;1;2;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.983104111078217
+2487;29;QKPGbEeuywc;VNkV6OTrstI;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Video: Low Fidelity;1;Non-Version;1;0.998586071275685
+2487;29;QKPGbEeuywc;hqL_RJ3DisU;DisAgrMus;2;2;2;3;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.957583914218177
+2487;29;QKPGbEeuywc;s1ZNGm04B5E;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.984815496708769
+2487;29;QKPGbEeuywc;uZgyjmtYevM;DisAgrMus;2;3;2;1;1;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.819568750757865
+2487;29;QKPGbEeuywc;vsSZU2SOpvM;DisAgrTxt;2;1;2;1;1;expert;False;1;Non-Version;Version;2;Video: Low Fidelity;2;Version;0;0.7718285897739
+2618;1;u0XxFRuyD_s;26PAgklYYvo;MutUnc;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.946304560311664
+2618;1;u0XxFRuyD_s;4Px6kJ_D8kM;DisAgrTxt;1;0;;;;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.573910803898106
+2618;1;u0XxFRuyD_s;Q2Qy612cNrE;DisAgrTxt;1;0;;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0646282566518847
+2618;1;u0XxFRuyD_s;Wq8BqYus40A;DisAgrMus;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;
+2618;1;u0XxFRuyD_s;_6FBfAQ-NDE;DisAgrTxt;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.992171414341636
+2618;1;u0XxFRuyD_s;dSDehTfGYK4;MutUnc;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.999620581937123
+2618;1;u0XxFRuyD_s;gLFWRDsx5AI;DisAgrMus;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.969033591863237
+2618;1;u0XxFRuyD_s;pT_Y-eodTv4;MutUnc;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.974859153783096
+2618;1;u0XxFRuyD_s;sRYLFVOY1RI;DisAgrMus;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.99731319342236
+2619;9;L7BjF2rceTw;1SIXIHDcKEg;DisAgrMus;0;2;1;2;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.989259474019069
+2619;9;L7BjF2rceTw;AwgHRodnKcc;DisAgrTxt;3;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.343986036602734
+2619;9;L7BjF2rceTw;OhKR61y7SlQ;DisAgrTxt;2;2;0;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.86399848550053
+2619;9;L7BjF2rceTw;Pp8sHP-s87I;MutUnc;1;1;2;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;1;0.983961084767496
+2619;9;L7BjF2rceTw;QktsXHD9dlQ;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.990670008699107
+2619;9;L7BjF2rceTw;RbBb7IMvMaw;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.494289233851195
+2619;9;L7BjF2rceTw;WOa-HA3MoVQ;DisAgrMus;3;2;1;2;1;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.807994463232303
+2619;9;L7BjF2rceTw;yIf3aQG56pE;DisAgrMus;3;2;1;2;1;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.945778777689873
+2619;9;L7BjF2rceTw;z5thQUS3ZcU;DisAgrTxt;0;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.49465314142641
+2629;15;oriSHsk9NSU;AI6xqaIYdtE;DisAgrMus;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.631813124522658
+2629;15;oriSHsk9NSU;EOUwgedjcMA;DisAgrTxt;0;0;;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+2629;15;oriSHsk9NSU;G3DOX4_gDvA;DisAgrMus;1;0;;;;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.651110727024607
+2629;15;oriSHsk9NSU;GsO-lTg2JyE;MutUnc;0;0;;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0629178031975276
+2629;15;oriSHsk9NSU;J4d53HYxliA;DisAgrTxt;0;0;;;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.305448333898655
+2629;15;oriSHsk9NSU;M5qgX-ln5L8;MutUnc;1;1;;;;expert;False;1;Non-Version;Non-Version;1;Video: In-Background;1;Non-Version;0;0.964128044654939
+2629;15;oriSHsk9NSU;T2Wc43kBLYs;DisAgrTxt;0;0;;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+2629;15;oriSHsk9NSU;WcWA1LoeWU4;DisAgrMus;1;2;;;;expert;False;1;Non-Version;Non-Version;1;Video: Low Fidelity;1;Non-Version;0;0.960605362759003
+2629;15;oriSHsk9NSU;_N4SHZ58Jz4;MutUnc;2;0;;;;expert;False;1;Non-Version;Non-Version;1;Video: In-Background;1;Non-Version;0;0.262965427978844
+2666;12;oB1p7b6emAg;3Bg0qAFimUU;DisAgrTxt;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.992243136827689
+2666;12;oB1p7b6emAg;7pdQpDUNJsw;DisAgrTxt;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.983541975488634
+2666;12;oB1p7b6emAg;7wwnL9bt67Q;DisAgrMus;1;3;1;;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.820819520343735
+2666;12;oB1p7b6emAg;CMWLX0KXwF4;DisAgrMus;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;
+2666;12;oB1p7b6emAg;N9zWVQ5zXBk;DisAgrTxt;0;0;0;;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+2666;12;oB1p7b6emAg;avabPY3XgRc;DisAgrMus;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.968125753955952
+2666;12;oB1p7b6emAg;cq0-jIOxz4I;MutUnc;1;2;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.875070096892132
+2666;12;oB1p7b6emAg;dsgBpsNPQ50;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.978841230799097
+2666;12;oB1p7b6emAg;lrXIQQ8PeRs;MutUnc;1;3;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.97383101613898
+2858;15;UtZWYsJlGPo;8-dnB9yi_0o;DisAgrTxt;2;1;2;2;3;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.958177639327887
+2858;15;UtZWYsJlGPo;BZpctyg1Wzo;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988066951187445
+2858;15;UtZWYsJlGPo;D5bIw_tkigc;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+2858;15;UtZWYsJlGPo;DE_tMA5KoZc;DisAgrTxt;1;3;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.928356291118421
+2858;15;UtZWYsJlGPo;G87V04tdTRY;DisAgrMus;1;1;1;1;3;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;1;
+2858;15;UtZWYsJlGPo;GKxKoE8TI3s;MutUnc;1;2;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.844837153008644
+2858;15;UtZWYsJlGPo;VRlb0ev-4ZM;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995656635074987
+2858;15;UtZWYsJlGPo;eIMOMeah6Ug;MutUnc;2;1;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.672083786468581
+2858;15;UtZWYsJlGPo;nEs6rimk5Nc;DisAgrMus;1;2;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.888405775421685
+2917;1;TsjJeBpsU-o;94KeG9wvoo8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.988065464204256
+2917;1;TsjJeBpsU-o;F1DJFNSideQ;DisAgrMus;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.994484419389205
+2917;1;TsjJeBpsU-o;RpNMeQEPOIY;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.870901437221822
+2917;1;TsjJeBpsU-o;Y4E3tHaZBlc;DisAgrMus;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.905185941941268
+2917;1;TsjJeBpsU-o;cy1bFI9zi4k;MutUnc;1;1;1;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;0.505927159978372
+2917;1;TsjJeBpsU-o;pvFoFe6iepU;DisAgrTxt;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.995971131056882
+2917;1;TsjJeBpsU-o;t8GwcPNw0XY;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.989226203614792
+2917;1;TsjJeBpsU-o;vmRG4tWkWa8;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999224417403975
+2917;1;TsjJeBpsU-o;yA6ssDKVbOc;DisAgrMus;1;1;2;1;0;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.999306521963062
+3005;3;P_95DOmt9Bc;-RRmpx04_Mw;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.273894029042343
+3005;3;P_95DOmt9Bc;0XPQaBhxnsQ;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.957194718070652
+3005;3;P_95DOmt9Bc;G2r7mRQX870;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.808292468486388
+3005;3;P_95DOmt9Bc;KTzmzrruHwc;DisAgrMus;1;1;2;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.993014072475807
+3005;3;P_95DOmt9Bc;L5V9nK7-OkM;MutUnc;1;2;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.991500595868644
+3005;3;P_95DOmt9Bc;ScNNfyq3d_w;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.882184747840854
+3005;3;P_95DOmt9Bc;gQs2V6JHhvM;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.471494168501018
+3005;3;P_95DOmt9Bc;nIrHyJz_f28;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.43270534389476
+3005;3;P_95DOmt9Bc;us0rNwyKUHw;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+3016;15;R0HUOfpQI_g;8Zqg5k_GUx4;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.984610061275747
+3016;15;R0HUOfpQI_g;DjdFn1RYHDE;MutUnc;0;0;0;0;0;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.770557026511671
+3016;15;R0HUOfpQI_g;IwEyD7HF7A0;DisAgrMus;1;1;2;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.92324831448248
+3016;15;R0HUOfpQI_g;SQTHB4jM-KQ;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.985151922717066
+3016;15;R0HUOfpQI_g;SudQcff1sGY;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+3016;15;R0HUOfpQI_g;XpTVaTeDafg;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;
+3016;15;R0HUOfpQI_g;fLWMfNi_hyc;DisAgrMus;0;0;0;1;1;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.844407311635682
+3016;15;R0HUOfpQI_g;nqd1S-ClkSk;DisAgrTxt;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997701804357896
+3016;15;R0HUOfpQI_g;xBYHFw0uhnE;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0086736500539416
+3039;8;kLNkBaMa_vc;HPjgBsYj-IA;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.995586295028112
+3039;8;kLNkBaMa_vc;MA5Mf0M7ZRU;DisAgrMus;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.964910338672988
+3039;8;kLNkBaMa_vc;NypxVn42SI0;DisAgrTxt;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.936944950579073
+3039;8;kLNkBaMa_vc;QPAo0ReyCpE;MutUnc;2;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.996882570549839
+3039;8;kLNkBaMa_vc;Rpq35wyDi7I;DisAgrMus;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.996717673157902
+3039;8;kLNkBaMa_vc;Rxwm8tfJb84;MutUnc;1;1;1;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;0.687140052064431
+3039;8;kLNkBaMa_vc;d5PqVeex4QU;MutUnc;1;1;1;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;0.99529015007768
+3039;8;kLNkBaMa_vc;fllcrk-1jFo;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997592012238593
+3039;8;kLNkBaMa_vc;gheUuf4Cmbs;DisAgrMus;3;2;1;1;2;expert;False;2;Version;Version;2;Song: Instrumental;2;Version;0;0.999951362325413
+3100;5;4tDslyvh3g4;AHTMEsNVaUQ;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.771169892868193
+3100;5;4tDslyvh3g4;D9GIFEA2aGw;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.682161939921326
+3100;5;4tDslyvh3g4;LfmrHTdXgK4;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.89359325464221
+3100;5;4tDslyvh3g4;MQgYzwUesJc;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.9805751640889
+3100;5;4tDslyvh3g4;MXb4fybj724;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.976120452425373
+3100;5;4tDslyvh3g4;REfpB2NVgtk;DisAgrMus;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.977217037119764
+3100;5;4tDslyvh3g4;X4PWPDgBeSg;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.781513205693397
+3100;5;4tDslyvh3g4;s_cHasJh3Jc;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.998430822161747
+3100;5;4tDslyvh3g4;yvE_7lBJia4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.9930959972804
+3146;5;ppe93s21dBw;IJpwoQul69Y;DisAgrTxt;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.995848048010538
+3146;5;ppe93s21dBw;KmIkJgHISMo;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.931179160126848
+3146;5;ppe93s21dBw;RWCSx1DxzhU;DisAgrTxt;1;1;0;0;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;
+3146;5;ppe93s21dBw;ThjbFUX0gHA;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.47316956964778
+3146;5;ppe93s21dBw;XUIXIfm4wQY;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.999535496606904
+3146;5;ppe93s21dBw;dVA-1iJxRQI;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.990368480413732
+3146;5;ppe93s21dBw;i3EwbusVXTY;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.999237110439373
+3146;5;ppe93s21dBw;l0q7MLPo-u8;MutUnc;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.975375536636727
+3146;5;ppe93s21dBw;nZQFXYPNx8E;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.726435959144129
+3147;12;8NZBljRfXjU;3HMRLEceXMM;DisAgrTxt;1;1;1;2;;worker;False;1;Non-Version;;;;1;Non-Version;;0.992554465779303
+3147;12;8NZBljRfXjU;4VxdufqB9zg;MutUnc;3;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.980314650949558
+3147;12;8NZBljRfXjU;CxVw_2JWVEk;DisAgrMus;0;0;1;0;;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.990410097889691
+3147;12;8NZBljRfXjU;WXBHCQYxwr0;DisAgrTxt;2;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.87428953109249
+3147;12;8NZBljRfXjU;_wsMEj2ZfW8;MutUnc;2;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.999748980123695
+3147;12;8NZBljRfXjU;dBF78tA443A;DisAgrMus;2;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.924456887167008
+3147;12;8NZBljRfXjU;rsHoLaYfk3M;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.999709173190619
+3147;12;8NZBljRfXjU;v2AC41dglnM;MutUnc;3;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Song: Same Genre;1;Non-Version;0;0.991022163790115
+3147;12;8NZBljRfXjU;z8N8SSdvEjk;DisAgrTxt;1;1;1;3;;worker;False;1;Non-Version;;;;1;Non-Version;;0.98241953675176
+3218;10;U7s-EH1Bmbk;5xx42_UGZvM;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.98014708199322
+3218;10;U7s-EH1Bmbk;6_bNHDxQZ4Q;DisAgrMus;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.895111506633976
+3218;10;U7s-EH1Bmbk;BncXzyjdREc;MutUnc;1;1;1;2;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.925009714496073
+3218;10;U7s-EH1Bmbk;GtPX1KL5Z80;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970014872501136
+3218;10;U7s-EH1Bmbk;NFDxuP81kX4;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.914388312904349
+3218;10;U7s-EH1Bmbk;V2ozifSOizM;DisAgrTxt;2;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.035694679054054
+3218;10;U7s-EH1Bmbk;cE-bnWqLqxE;DisAgrMus;1;1;1;2;2;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;1;0.990877037489013
+3218;10;U7s-EH1Bmbk;htzj_0rZS_M;DisAgrMus;1;1;1;3;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.998786519041399
+3218;10;U7s-EH1Bmbk;ijeXDjS_xvQ;MutUnc;2;1;2;1;1;expert;False;1;Non-Version;Version;2;Song: Difficult Cover;2;Version;0;0.567923082419676
+3220;0;-UvtOQnPE5c;XmgE_f1zCsE;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.99764221144921
+3220;0;-UvtOQnPE5c;aQ13ETkekd4;DisAgrTxt;2;0;0;0;1;expert;False;0;No Music;Version;2;Video: With Non-Music;2;Version;0;0.136463526675576
+3220;0;-UvtOQnPE5c;bHXR2_0DWXw;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.968116331179804
+3220;0;-UvtOQnPE5c;bRxdnwbM-C4;MutUnc;1;1;1;1;0;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;1;0.687670994053933
+3220;0;-UvtOQnPE5c;eF0dXoFQ4rM;DisAgrTxt;2;2;0;0;0;expert;False;0;No Music;Version;2;Video: With Non-Music;2;Version;0;0.312452029344512
+3220;0;-UvtOQnPE5c;hoxlJEwMoCw;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.718039561126192
+3220;0;-UvtOQnPE5c;sEK68eHnfmc;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.114112546290281
+3220;0;-UvtOQnPE5c;v2LixP7n_hM;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999094511485015
+3220;0;-UvtOQnPE5c;xUTLr9JbuTM;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.884625080147777
+3436;15;7W_zayTaGrQ;-2hxU4UG3dA;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.903717741209403
+3436;15;7W_zayTaGrQ;-gznKFKQTOw;DisAgrTxt;2;2;2;1;2;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.986143478451594
+3436;15;7W_zayTaGrQ;Bl0PGaBh-wM;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999147368174256
+3436;15;7W_zayTaGrQ;WzRA9UzuU8c;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.960003097351912
+3436;15;7W_zayTaGrQ;XSvGdfOfLFw;DisAgrMus;2;2;2;3;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.849891403008299
+3436;15;7W_zayTaGrQ;_7PUPNxsRQ0;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.940796900284715
+3436;15;7W_zayTaGrQ;gStcwRdSr-Y;MutUnc;1;1;1;0;1;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.326995503673299
+3436;15;7W_zayTaGrQ;pkV0nplBbdU;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Single Instrument;1;Non-Version;0;0.988103246631737
+3436;15;7W_zayTaGrQ;u6hgepHMjdE;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.743088509381806
+3484;10;MNcQnf7SL-A;1k6ZT3mN5Zc;DisAgrMus;0;0;0;1;0;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.845509074571008
+3484;10;MNcQnf7SL-A;5FRtmSF-Akg;MutUnc;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.999325140963174
+3484;10;MNcQnf7SL-A;N5RVzjQki8o;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.991604545213518
+3484;10;MNcQnf7SL-A;WdfmuXY1FbQ;DisAgrMus;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.987723365307303
+3484;10;MNcQnf7SL-A;_SenN7Xe87k;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.939987081348094
+3484;10;MNcQnf7SL-A;c8v6HIzszjQ;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.927220923960264
+3484;10;MNcQnf7SL-A;k3mrpVwpeFY;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.98163110319481
+3484;10;MNcQnf7SL-A;xQVsBZY8G_I;DisAgrMus;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997320174792081
+3484;10;MNcQnf7SL-A;yxL-SD5zejM;DisAgrTxt;0;2;2;1;1;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.975645665478274
+3521;12;beTsDOBRs8I;-tJYN-eG1zk;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.759730625053898
+3521;12;beTsDOBRs8I;INhyNJZwCnU;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.922587293099119
+3521;12;beTsDOBRs8I;OhOoz7hMEWI;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.998170712791026
+3521;12;beTsDOBRs8I;WWhu2sTAgO0;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Version;2;Song: Mashup/Remix;2;Version;0;0.991760570024589
+3521;12;beTsDOBRs8I;__HPfmvaWRw;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.941873504581033
+3521;12;beTsDOBRs8I;bpNw7jYkbVc;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.947915371981534
+3521;12;beTsDOBRs8I;h3Yrhv33Zb8;DisAgrMus;1;1;1;0;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Genre;1;Non-Version;0;0.964959968127898
+3521;12;beTsDOBRs8I;qywfSdMxET4;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Version;2;Video: Low Fidelity;2;Version;0;0.448423267314714
+3521;12;beTsDOBRs8I;vFzzsyiBw58;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.968046501727144
+3558;14;kieGY9dXDyM;6CEIXOtcyrM;MutUnc;2;2;1;2;2;expert;False;2;Version;Version;2;Song: Slowed/Spedup;2;Version;0;
+3558;14;kieGY9dXDyM;9m7tPikH0UA;DisAgrTxt;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.844697377119711
+3558;14;kieGY9dXDyM;GZNJFrb0IGo;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.929104054932426
+3558;14;kieGY9dXDyM;H0XyNfZj5Xs;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.990371694337673
+3558;14;kieGY9dXDyM;LXY_HIU9CwQ;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0165993430397726
+3558;14;kieGY9dXDyM;Muty0wRsH90;MutUnc;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+3558;14;kieGY9dXDyM;OmLNs6zQIHo;MutUnc;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+3558;14;kieGY9dXDyM;n9aL0otZalc;MutUnc;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.989534655274618
+3558;14;kieGY9dXDyM;rJ1SMhOJU2g;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.345195195118565
+3584;3;01Kb94g3_Dg;-iWgjM2SJMI;DisAgrTxt;1;1;0;2;2;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.825369540127841
+3584;3;01Kb94g3_Dg;C6jyn_RLUKQ;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95796678717204
+3584;3;01Kb94g3_Dg;KCBS5EtszYI;DisAgrMus;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.962656051096679
+3584;3;01Kb94g3_Dg;NR-H2uFCQls;MutUnc;2;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.940135187309671
+3584;3;01Kb94g3_Dg;We4QQCMwyrg;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997287594613367
+3584;3;01Kb94g3_Dg;Y0may3fIO5Q;DisAgrTxt;0;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.900586304444827
+3584;3;01Kb94g3_Dg;m8IbRIfcyIc;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.950446900385444
+3584;3;01Kb94g3_Dg;m9fWu0TJuaM;DisAgrTxt;1;2;0;2;2;expert;False;2;Version;Version;2;Song: Single Instrument;2;Version;0;0.662281199444996
+3584;3;01Kb94g3_Dg;zoXLKgX0MgU;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.91967358720493
+3735;10;Yh1vRnp46zQ;H9tEvfIsDyo;DisAgrMus;1;1;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.858407431900913
+3735;10;Yh1vRnp46zQ;XP3DYae9ato;DisAgrTxt;1;2;2;;;expert;False;1;Non-Version;Non-Version;1;Song: Drum-Only;1;Non-Version;0;0.906422253821153
+3735;10;Yh1vRnp46zQ;YfUt_zEHSds;MutUnc;1;1;1;;;worker;False;1;Non-Version;;;;1;Non-Version;;0.982695638020833
+3735;10;Yh1vRnp46zQ;kwEZRPkAAu8;MutUnc;1;1;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.985450816879361
+3735;10;Yh1vRnp46zQ;s1cvuLcCgWg;DisAgrTxt;1;2;2;;;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.987427834093705
+3735;10;Yh1vRnp46zQ;sgeJgWg_72w;DisAgrMus;1;2;2;;;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.999237911864657
+3735;10;Yh1vRnp46zQ;tA7iy_-ZdkY;MutUnc;1;2;1;;;expert;False;2;Version;Version;2;Song: Medley;2;Version;0;0.919059885995683
+3735;10;Yh1vRnp46zQ;whdtkmMk7gg;DisAgrMus;1;1;1;;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.94757884151419
+3735;10;Yh1vRnp46zQ;xFgMHlYeG3Y;DisAgrTxt;1;2;2;;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.815059279260856
+3780;6;YEfJfkwl3Sw;-vn6QdqxK3g;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.964286445070935
+3780;6;YEfJfkwl3Sw;3dg9b3_Hals;DisAgrMus;2;1;2;2;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.891361696415346
+3780;6;YEfJfkwl3Sw;7I9-w_iqwYg;DisAgrTxt;2;1;2;2;1;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.697162109017154
+3780;6;YEfJfkwl3Sw;KmIkJgHISMo;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.931179160126848
+3780;6;YEfJfkwl3Sw;TDe1DqxwJoc;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.991736225328948
+3780;6;YEfJfkwl3Sw;ZgalAdgEd-E;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.99166898001269
+3780;6;YEfJfkwl3Sw;_jfyEuVyTM4;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.738566790372478
+3780;6;YEfJfkwl3Sw;bg6eORshS_M;DisAgrTxt;2;2;2;2;1;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.287625387535945
+3780;6;YEfJfkwl3Sw;wTLjssYFXBQ;DisAgrTxt;2;2;2;2;1;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.373392564152721
+3792;11;QdcxG65szNU;A9fQPzZ1-hg;MutUnc;0;0;0;0;0;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.990462570548445
+3792;11;QdcxG65szNU;CjJgVHIdmqw;MutUnc;2;2;1;2;1;expert;False;2;Version;Non-Version;1;Song: Mashup/Remix;1;Non-Version;0;0.706847164032174
+3792;11;QdcxG65szNU;LyFfVc4ZTxk;DisAgrTxt;2;0;3;1;1;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.09484980871918
+3792;11;QdcxG65szNU;WfmXJuurKH8;DisAgrMus;0;1;0;1;0;expert;False;0;No Music;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.994437020285088
+3792;11;QdcxG65szNU;dkNfNR1WYMY;DisAgrMus;1;2;2;1;2;expert;False;2;Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.934422520589859
+3792;11;QdcxG65szNU;rOj9RJtkYH8;MutUnc;1;2;2;1;2;expert;False;2;Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.999563219420303
+3792;11;QdcxG65szNU;rdYmKFcrzvg;DisAgrTxt;2;0;3;2;3;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0
+3792;11;QdcxG65szNU;woca_kymxjM;DisAgrTxt;2;1;2;2;2;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.808928789980418
+3792;11;QdcxG65szNU;z-11zoVnHSQ;DisAgrMus;1;1;2;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.74841376268291
+3828;0;qrO4YZeyl0I;0gDvR1sZ6I4;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.945231300762248
+3828;0;qrO4YZeyl0I;9aIBy-t2Lg8;DisAgrMus;2;3;3;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.990982031619327
+3828;0;qrO4YZeyl0I;HmrRv7uQaEQ;DisAgrTxt;2;2;2;0;0;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.771276025528948
+3828;0;qrO4YZeyl0I;Shk2n-4YkCU;DisAgrTxt;1;2;2;0;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.881164927720457
+3828;0;qrO4YZeyl0I;TxpqxIYfilA;DisAgrMus;1;1;2;1;2;expert;False;1;Non-Version;Version;2;Song: Difficult Cover;2;Version;0;0.8977171875
+3828;0;qrO4YZeyl0I;mvxQYPR4lmU;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986255427585318
+3828;0;qrO4YZeyl0I;niO9mfiF-oo;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+3828;0;qrO4YZeyl0I;r5Z6uzczvjE;DisAgrTxt;0;2;2;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;
+3828;0;qrO4YZeyl0I;wCVukDiRsNs;MutUnc;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.86865937887359
+3909;0;4fndeDfaWCg;3-fe805xl1M;DisAgrMus;2;2;3;1;0;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.936381046010582
+3909;0;4fndeDfaWCg;4-UwCHCmfZ4;DisAgrMus;2;2;3;1;1;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.999508687054876
+3909;0;4fndeDfaWCg;4iWm-mUToDg;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.970667047599527
+3909;0;4fndeDfaWCg;J47YIH1XCGE;MutUnc;0;0;1;0;0;expert;False;0;No Music;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.983132236702333
+3909;0;4fndeDfaWCg;T7gOHN9zw40;MutUnc;3;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.959794843233791
+3909;0;4fndeDfaWCg;XWhUeAy35qc;DisAgrMus;2;2;3;1;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.858023524520421
+3909;0;4fndeDfaWCg;jbvZGL-_thI;DisAgrTxt;0;0;0;1;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+3909;0;4fndeDfaWCg;lyFZPc-T5So;DisAgrTxt;1;2;2;1;2;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.2650780640072
+3909;0;4fndeDfaWCg;vPv5eIObAKs;DisAgrTxt;1;2;2;1;1;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.23661143111236
+3913;8;iqb2zGGvEsI;4ZSVbrV4-Xs;MutUnc;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.955241031390134
+3913;8;iqb2zGGvEsI;NlkXGul1FlM;DisAgrMus;3;2;2;3;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.992769805394971
+3913;8;iqb2zGGvEsI;SgoZUHO4uMc;DisAgrTxt;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.839638918427552
+3913;8;iqb2zGGvEsI;YVlrhahj8G4;DisAgrTxt;2;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986339022138787
+3913;8;iqb2zGGvEsI;ZQP5ydSKf6c;DisAgrMus;3;2;1;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.985125176260404
+3913;8;iqb2zGGvEsI;hY73MQOpg-0;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.984383877840909
+3913;8;iqb2zGGvEsI;oIb9QUGjdIc;DisAgrTxt;2;1;2;2;1;expert;False;2;Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.891055908203125
+3913;8;iqb2zGGvEsI;s3I8xKOzbqM;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.984041439194277
+3913;8;iqb2zGGvEsI;vjJ45pJ26rc;DisAgrMus;3;2;3;3;2;expert;False;3;Match;Version;2;Placeholder: Non-Ambiguous;2;Version;0;1.00062140143408
+3952;3;zLN3-j3WxFQ;-4zi1kri8FE;DisAgrMus;2;3;2;2;3;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.988840206185567
+3952;3;zLN3-j3WxFQ;8x7Ta89QLo4;MutUnc;1;1;0;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.971168659073317
+3952;3;zLN3-j3WxFQ;BV3FcAecXL0;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;
+3952;3;zLN3-j3WxFQ;SpOqG0O3zyY;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+3952;3;zLN3-j3WxFQ;dhZUsNJ-LQU;MutUnc;1;1;0;0;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.990136757257985
+3952;3;zLN3-j3WxFQ;f8Pq4XJpRWo;DisAgrMus;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.932419614541761
+3952;3;zLN3-j3WxFQ;iclPqjdW8YI;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+3952;3;zLN3-j3WxFQ;k6UaM-AzANI;MutUnc;1;3;2;1;2;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.958899467390145
+3952;3;zLN3-j3WxFQ;n-mq0uJ7rlM;DisAgrMus;0;0;0;1;0;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.957997719186251
+3972;4;WN7mdpRUTsA;3hfOwaG2glA;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.86680764658543
+3972;4;WN7mdpRUTsA;4y33h81phKU;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.986287754292694
+3972;4;WN7mdpRUTsA;6-1eZZMeSB8;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;1;0.784285792684742
+3972;4;WN7mdpRUTsA;8KO_5JHxbCc;MutUnc;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.682216069379965
+3972;4;WN7mdpRUTsA;Lql0eS1X2oo;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+3972;4;WN7mdpRUTsA;V6tWGAk65mc;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.973074140650536
+3972;4;WN7mdpRUTsA;_1jL8A20H_k;DisAgrMus;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.939193996410392
+3972;4;WN7mdpRUTsA;dEV0tL8H41g;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+3972;4;WN7mdpRUTsA;osOJWO1Zwtw;DisAgrTxt;0;0;1;0;1;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.443845475447297
+3990;4;EZIug6yKCr4;DVP5iAezxp0;DisAgrMus;1;0;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.74788841213081
+3990;4;EZIug6yKCr4;FcMpTeOR3_c;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.926900708865815
+3990;4;EZIug6yKCr4;HILPMnPXrzw;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.990180295895676
+3990;4;EZIug6yKCr4;IogEtFTO800;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.938335894753874
+3990;4;EZIug6yKCr4;SHLGpDOIhMs;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.972317555168093
+3990;4;EZIug6yKCr4;d3pekXRvw54;DisAgrMus;1;1;1;1;3;worker;False;1;Non-Version;;;;1;Non-Version;;0.984940208337877
+3990;4;EZIug6yKCr4;pj_dy4oGr4E;DisAgrMus;0;0;1;2;1;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.627075354216838
+3990;4;EZIug6yKCr4;s7Qob5zr2Bk;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970037879970357
+3990;4;EZIug6yKCr4;werYmxcT8_k;DisAgrTxt;2;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.998192325786953
+4148;4;pPaDcTnXs6s;-lDuh9wKo-s;DisAgrTxt;1;2;2;2;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.669299963136383
+4148;4;pPaDcTnXs6s;HNa1dR-3IRo;DisAgrTxt;2;2;2;2;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;
+4148;4;pPaDcTnXs6s;UmXHkL3xiMU;MutUnc;2;1;1;2;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;
+4148;4;pPaDcTnXs6s;Vc2sPdPyyrs;MutUnc;1;1;1;0;;worker;False;1;Non-Version;;;;1;Non-Version;;0.920564558082652
+4148;4;pPaDcTnXs6s;afzmwAKUppU;DisAgrMus;0;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.982270572485513
+4148;4;pPaDcTnXs6s;nScV1qu-MZQ;DisAgrMus;2;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.991249857079912
+4148;4;pPaDcTnXs6s;o8hPQye8H4I;DisAgrTxt;1;2;2;0;;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.861944072828083
+4148;4;pPaDcTnXs6s;ppcZi4JGqYg;DisAgrMus;2;1;1;3;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.888397879717248
+4148;4;pPaDcTnXs6s;vgpcEYkj0hQ;MutUnc;1;1;1;2;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;
+4237;1;xzhNRwsebfE;KIvz5zYXCoI;MutUnc;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.997604870425309
+4237;1;xzhNRwsebfE;Q7EM8Vlz9-I;DisAgrTxt;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.867222217522045
+4237;1;xzhNRwsebfE;VPJBEO5b6y0;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.990307079719813
+4237;1;xzhNRwsebfE;VlTGRnU6h4w;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.452482305404243
+4237;1;xzhNRwsebfE;_USoCzMd23Q;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.975190861720921
+4237;1;xzhNRwsebfE;bGbYWufqPyY;DisAgrMus;2;1;1;1;2;expert;False;1;Non-Version;Version;2;Song: Difficult Cover;2;Version;0;0.992389800498215
+4237;1;xzhNRwsebfE;dzJfu2wX0Ck;DisAgrMus;1;1;1;1;2;expert;False;1;Non-Version;Version;2;Video: Multiple Songs;2;Version;0;0.91854370839497
+4237;1;xzhNRwsebfE;psT_XFDTjHs;MutUnc;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.994824463700206
+4237;1;xzhNRwsebfE;v4lmrepq6QA;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.996738428470477
+4478;7;W68CZUT6FaE;CbHeVxjergo;MutUnc;1;1;0;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.778240289392606
+4478;7;W68CZUT6FaE;K7UGaydx7NI;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.962860794972054
+4478;7;W68CZUT6FaE;P1O3OlRzphE;DisAgrMus;3;3;3;3;;expert;False;3;Match;Match;3;Placeholder: Non-Ambiguous;3;Match;0;0.99935511037844
+4478;7;W68CZUT6FaE;SSnw1JaL2uA;MutUnc;1;1;0;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.765744087598982
+4478;7;W68CZUT6FaE;TD9NMeYtADg;MutUnc;1;0;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.953306721166237
+4478;7;W68CZUT6FaE;Xa6kiUj5fM0;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+4478;7;W68CZUT6FaE;dt7jfAe-DxY;DisAgrTxt;2;0;1;2;;expert;False;2;Version;Version;2;Song: Drum-Only;2;Version;0;0.526805538907378
+4478;7;W68CZUT6FaE;e4VBEG17U0E;DisAgrTxt;0;0;0;0;;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+4478;7;W68CZUT6FaE;nMIHEWGnpkk;DisAgrMus;2;2;1;2;;expert;False;2;Version;Version;2;Video: Low Fidelity;2;Version;0;0.593262607431749
+4504;18;HreJxxfzrMw;13oXf68zRcM;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.999629571483311
+4504;18;HreJxxfzrMw;3_TvpBwSZDM;DisAgrTxt;1;1;2;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.941741325381705
+4504;18;HreJxxfzrMw;OYYviOqGoJs;MutUnc;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.935980080381367
+4504;18;HreJxxfzrMw;Q3Bp1QVVieM;MutUnc;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.997944018619446
+4504;18;HreJxxfzrMw;_ywtW9MXRPA;MutUnc;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Video: Multiple Songs;1;Non-Version;0;0.506516524533353
+4504;18;HreJxxfzrMw;ak0RnS-T5GQ;DisAgrTxt;0;0;1;2;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.974091722830666
+4504;18;HreJxxfzrMw;e2FkJ2cE4i4;DisAgrTxt;0;0;2;2;;expert;False;1;Non-Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.978474214894695
+4504;18;HreJxxfzrMw;snILjFUkk_A;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;0;0.972118167647155
+4504;18;HreJxxfzrMw;wLm4PwYuF8I;DisAgrMus;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.747672413793103
+4806;4;xMORbXArOc4;C9V7QNXaftI;DisAgrTxt;1;2;2;2;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.811305129360145
+4806;4;xMORbXArOc4;DhaYYi-Vtt4;DisAgrMus;1;3;3;1;;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.956037737897622
+4806;4;xMORbXArOc4;H_yju_BPzQg;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.975697910831466
+4806;4;xMORbXArOc4;P_lXJfdzEPY;DisAgrTxt;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.993417315316186
+4806;4;xMORbXArOc4;Q1vjzX0EoOI;MutUnc;1;0;1;0;;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.57470222433614
+4806;4;xMORbXArOc4;WmsxcAioNn8;MutUnc;1;0;1;0;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.800339113261237
+4806;4;xMORbXArOc4;Ym0z62J-JZE;DisAgrTxt;1;1;2;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.985596518680967
+4806;4;xMORbXArOc4;dmcNbsLCpBQ;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;0;0.971685791015625
+4806;4;xMORbXArOc4;sEGPZBkziio;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.990569409003223
+4844;0;roqqACI1ABY;7WDOGRKic1c;DisAgrMus;2;2;1;2;2;expert;False;2;Version;Match;3;Video: With Non-Music;3;Match;0;0.897459869445085
+4844;0;roqqACI1ABY;Bp6z4LOu49s;MutUnc;1;1;1;1;2;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;1;0.751803643751784
+4844;0;roqqACI1ABY;EyN5Nsyyf2c;DisAgrTxt;0;0;0;1;0;expert;False;0;No Music;Non-Version;1;Video: In-Background;1;Non-Version;0;0.889944837415541
+4844;0;roqqACI1ABY;M54QlTPgwzU;DisAgrMus;2;2;1;0;2;expert;False;2;Version;Match;3;Video: With Non-Music;3;Match;0;0.811572986764531
+4844;0;roqqACI1ABY;Vjf-esIdxWc;MutUnc;2;2;1;1;2;expert;False;2;Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.921484009910409
+4844;0;roqqACI1ABY;WpXbLckHTaQ;DisAgrTxt;0;0;0;3;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+4844;0;roqqACI1ABY;lZaTGPjaoE4;DisAgrMus;1;1;1;1;2;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.520619872508273
+4844;0;roqqACI1ABY;rI1RVub4wZw;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+4844;0;roqqACI1ABY;xgP7eOoPAEU;MutUnc;2;2;1;2;2;expert;False;2;Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.95504609758234
+4931;11;E5sVhFnrlTw;1oAb4LqUvas;DisAgrMus;2;1;2;2;;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.987588808200503
+4931;11;E5sVhFnrlTw;4NS9twZ2-n8;DisAgrTxt;2;2;2;2;;expert;False;2;Version;Version;2;Song: Vocal-Only;2;Version;0;0.187188366305444
+4931;11;E5sVhFnrlTw;DmkCTTM-4J4;MutUnc;1;2;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.980335783372413
+4931;11;E5sVhFnrlTw;NSjOplY8GCw;DisAgrTxt;0;1;0;1;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.186324142564273
+4931;11;E5sVhFnrlTw;Wh8Bgp7bO3I;DisAgrMus;2;1;2;2;;expert;False;2;Version;Version;2;Video: Multiple Songs;2;Version;0;0.654388511646674
+4931;11;E5sVhFnrlTw;YwnOSpg__84;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.979755617674619
+4931;11;E5sVhFnrlTw;ZFWC4SiZBao;DisAgrMus;1;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.939463867532088
+4931;11;E5sVhFnrlTw;mvqWiR8xYzc;DisAgrTxt;0;1;0;1;;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.334084692233946
+4931;11;E5sVhFnrlTw;p4zbS8pciTU;MutUnc;2;1;1;1;;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.988523326699805
+4951;4;yHXx3eh5FRA;3ExWsVFJlFo;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.98556652035828
+4951;4;yHXx3eh5FRA;6W5pq4bIzIw;DisAgrMus;1;1;1;3;;expert;False;1;Non-Version;Version;2;Song: Mashup/Remix;2;Version;0;0.977378336186227
+4951;4;yHXx3eh5FRA;T8kOzzfnpP4;DisAgrTxt;2;1;2;2;;expert;False;2;Version;Non-Version;1;Video: Similar Metadata;1;Non-Version;0;0.983526320094384
+4951;4;yHXx3eh5FRA;_eGcCdXNAtI;DisAgrTxt;2;1;2;3;;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.988073455810547
+4951;4;yHXx3eh5FRA;msBJgkxKRlM;MutUnc;1;1;1;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.958910708746898
+4951;4;yHXx3eh5FRA;oJdktl3kWK8;DisAgrMus;3;1;0;0;;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.526909423515525
+4951;4;yHXx3eh5FRA;pxAamoB0c0A;DisAgrTxt;2;1;2;2;;expert;False;2;Version;Version;2;Song: Mashup/Remix;2;Version;0;0.999447228287739
+4951;4;yHXx3eh5FRA;ww6ykF2ktaI;MutUnc;1;1;2;1;;worker;False;1;Non-Version;;;;1;Non-Version;;0.953125176753394
+4951;4;yHXx3eh5FRA;yDT4YNM7vSU;DisAgrMus;3;1;1;1;;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.867686036321599
+4998;5;VP87KQOxOFc;-3ySQsCWkzY;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.951050336923476
+4998;5;VP87KQOxOFc;647Vrn5_oSY;DisAgrMus;1;2;2;3;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.776197012133664
+4998;5;VP87KQOxOFc;A3rWtrxknkw;DisAgrMus;1;2;2;3;2;expert;False;2;Version;Version;2;Placeholder: Non-Ambiguous;2;Version;0;0.894753175211223
+4998;5;VP87KQOxOFc;ARLNlTJyk3I;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+4998;5;VP87KQOxOFc;Ul0uJfhywW8;MutUnc;1;1;1;1;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.990537315133711
+4998;5;VP87KQOxOFc;_JFfvSQrNIg;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970456464270758
+4998;5;VP87KQOxOFc;gdLlKodowTk;DisAgrTxt;0;1;1;1;0;worker;False;1;Non-Version;;;;1;Non-Version;;1.00007848774354
+4998;5;VP87KQOxOFc;jLy-4eyFs6Q;MutUnc;1;1;1;3;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.660413870645345
+4998;5;VP87KQOxOFc;mP5c4j6iwJ4;DisAgrTxt;1;2;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.949069451146974
+5159;6;ycrhIpd4ZWU;1ax3fKHo9Wg;DisAgrTxt;1;1;1;2;2;worker;False;1;Non-Version;;;;1;Non-Version;;0.289881000146892
+5159;6;ycrhIpd4ZWU;3xH7uJoEP4I;MutUnc;1;0;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.928544418375435
+5159;6;ycrhIpd4ZWU;7aOoO5tfWAg;DisAgrMus;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.992521158854167
+5159;6;ycrhIpd4ZWU;EFuBvEt84OI;DisAgrMus;0;1;0;2;2;expert;False;1;Non-Version;Version;2;Video: With Non-Music;2;Version;0;0.707725301872287
+5159;6;ycrhIpd4ZWU;EoL6XWLL7q8;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.824614303010227
+5159;6;ycrhIpd4ZWU;ZJL4UGSbeFg;DisAgrMus;1;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.976617115733653
+5159;6;ycrhIpd4ZWU;aZ50q8On1fE;DisAgrTxt;0;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0.0384795113895716
+5159;6;ycrhIpd4ZWU;vc-GlOqxddk;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.801336397951749
+5159;6;ycrhIpd4ZWU;ycV3YEcK5kw;DisAgrTxt;1;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.994460085857703
+5326;2;-4wkVoCFm8U;1Mt3d5_g03I;DisAgrTxt;1;1;1;2;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.99084224036576
+5326;2;-4wkVoCFm8U;3qnZYaw3NoA;DisAgrTxt;1;0;0;0;0;expert;False;0;No Music;No Music;0;Placeholder: No Music;0;No Music;0;0
+5326;2;-4wkVoCFm8U;5ula1NjaHUA;DisAgrMus;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.970954700052601
+5326;2;-4wkVoCFm8U;KI85lysEti0;DisAgrTxt;0;1;2;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.88910673144304
+5326;2;-4wkVoCFm8U;LR-T2qTLF6o;DisAgrMus;2;1;2;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.976143204538446
+5326;2;-4wkVoCFm8U;UmiPKWhq_c4;MutUnc;0;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.95592976120283
+5326;2;-4wkVoCFm8U;j6zzIybxtk8;DisAgrMus;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.994555751151902
+5326;2;-4wkVoCFm8U;rH9aPGkvqYA;MutUnc;1;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.704194255420425
+5326;2;-4wkVoCFm8U;uIBFkC_Pr_Q;MutUnc;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Similar;1;Non-Version;0;0.993595481513893
+5395;10;QdUDFkuUrN8;-4ih07RbffE;MutUnc;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Song: Same Artist;1;Non-Version;1;0.577297730899006
+5395;10;QdUDFkuUrN8;-lEgNyJQ2is;DisAgrTxt;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.969413074537938
+5395;10;QdUDFkuUrN8;0JtduZyMKaY;DisAgrMus;2;2;1;2;2;expert;False;2;Version;Version;2;Song: Slowed/Spedup;2;Version;0;0.985545403488464
+5395;10;QdUDFkuUrN8;XizJ6qB90Hs;DisAgrMus;2;1;0;1;0;expert;False;1;Non-Version;Non-Version;1;Video: With Non-Music;1;Non-Version;0;0.812280815480573
+5395;10;QdUDFkuUrN8;_OFMkCeP6ok;MutUnc;3;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;
+5395;10;QdUDFkuUrN8;b2gtJmH3-vI;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.743293997520776
+5395;10;QdUDFkuUrN8;qAldFijtg2Y;DisAgrTxt;2;1;1;1;1;worker;False;1;Non-Version;;;;1;Non-Version;;0.984868777729326
+5395;10;QdUDFkuUrN8;uHXmnck5g0I;MutUnc;2;1;1;1;1;expert;False;1;Non-Version;Non-Version;1;Placeholder: Non-Ambiguous;1;Non-Version;1;0.932860094358465
+5395;10;QdUDFkuUrN8;vMDL3U798CM;DisAgrMus;2;2;2;2;2;expert;False;2;Version;Version;2;Video: With Non-Music;2;Version;0;0.812311350315801

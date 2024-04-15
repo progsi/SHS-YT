@@ -1,0 +1,606 @@
+,set_id,reference_yt_id,Feedback,F_len
+0,2618,u0XxFRuyD_s,"video 1 was a bit problematic, I eventually selected  ""Video does not contain music"" even if there is a very short ""jingle"" at the start of the video. At first I had selected ""...a different song"" as I assumed you wanted an evalutation of that little piece of music, then I investigated a bit and watched the ""examples"" in the instructions, the 4th example is Metallica interviewed by Jimmy Kimmel and include some music (eg. immediately after Kimmel introduce Metallica), but instructions suggest to select ""Video does not contain music"" because it is basically an interview ... I hope I was not wrong but it is somewhat a borderline case, a long basketball video introduced by a 10-seconds short jingle. BTW the jingle was ""...a different song""!",747
+1,667,TLV4_xaYynY,"Video 2 is a karaoke version, I checked the option which is the same song but a different version.There's no song in Video 3 and Video 4.Even though there might be interruptions (e.g. speech), the music is still copied from the original audio (Video 7).I'd like to point out that there are no ""bad examples"" instructions, so it's hard for us workers to know if we're performing correctly. I noticed in a forum that there are workers commenting that they were rejected when performing this work, so it's important to set bad examples and even more good examples in instructions, to avoid this type of inconvenience. This will keep workers doing a consistent and good job.",674
+2,1919,VQgb-jR1MdU,"Video 2 does not load, even the thumbnail says ""Video unaivalable"", I tried to reload the page but it kept not working (there is not even the typical ""play"" button on the bottom right) so I selected "" Video does not contain music"". Video 6, the song is performed ""a cappella"", I was tempted to select "" Video does not contain music"" but it's still music for me(there are notes, the performer follows the melody and so on), so I rated it accordingly, I hope it's not controversial. P.S., let me take this opportunity to thank you for the previous bonuses, unexpected and much appreciated!!",588
+3,348,k6_8c0CyK3c,"This sentence needs rework, because it's confusing. ""Your task is to identify for video each of the other videos listed below whether an excerpt of the song in the Reference Video is contained in it or another (cover) version of the song. ""  A better construct of this sentence might be ""Your task is to determine if the reference video is contained in each of the other videos below. It could be an excerpt, another version (cover) or the exact same as the reference video""",474
+4,4504,HreJxxfzrMw,"For Video 4 and Video 9 in this HIT, the YouTube embeds did not work (it stated ""Video unavailable - This video is not available""; please see the following screenshots indicating the issue: https://i.ibb.co/5vS3dyj/image.png , https://i.ibb.co/X3Qb9x9/image.png ). It would be beneficial to be able to flag such broken embeds. I selected ""Video does not contain music"" as the next best option.",393
+5,1211,JsgJTvGscF4,"I don't know how to answer 5 as it is the same ""song"" but it's from a different band, and in a different language. 8 and 10 I also have issues with as it's the song, but it's only backing tracks of the song so it is technically the same song or a different song? Bit of a Thesues paradox. Sent an email but didn't get a response in time so just submitting this and hoping for the best.",385
+6,3220,-UvtOQnPE5c,"Video 5 contains no video and has the message: Video unavailable: This video contains content from NBC Universal, who has blocked it in your country on copyright grounds. Video 7, Video 8, and Video 10 are teaching you how to play a different song, and contain some talking, but also songs.  For this reason I labeled them ""a different song"".              MTURK ID:  A2VAL2BRKVSUB5",381
+7,526,97PAY9wl63E,"video 4 is mute, no audio, I even tried to reload the page but nothing changed, audio is not working. Video 5, the song starts at about the third minute, but it's her. Video 9, it's half music and half words (or probably more words than music up to the point that  I was tempted to select ""does not contain music""), but btw the music does not belong to the reference song.",372
+8,5395,QdUDFkuUrN8,"The Three last videos show versions of Back to Black by Amy Winehouse, but not by Vintage Reggae Café, that's why I chose the option ""...a different song"". If it's not about the exact performer and cover version, these last three would be ""...the same song but a different recording."", because it's a cover from the original song which is from Amy Winehouse.",359
+9,4998,VP87KQOxOFc,"What should we do with covers or excerpts of isolated instruments?  There was a drum lesson and a drum beat that were clearly the 'same song but a different recording', but I'm not sure if those are considered true excerpts or not.  Adding something in the instructions addressing this specific situation would be helpful.  Thanks!",331
+10,1211,JsgJTvGscF4,"There's no way to tell if the music in video 9 is the exact same live performance as the reference video, so I said it's a different recording. For videos 8 and10, when so much of the song has been left out it's almost unrecognizable, but I did my best to listen carefully and I believe they are covers of the same song.",320
+11,3436,7W_zayTaGrQ,Some of the instructions are not clear; like does it has to be a 1:1 copy of the song to fit into the exact same recording or is it a different recording if it's sung by a different guy (in this case Ray Charles) because it has a different choir entirely?,255
+12,1205,IgJq6v6gA_4,"I wasn't entirely sure how to categorize the last video as it was an AI recitation of the lyrics so it wasn't exactly the song and not singing, but I wasn't sure if it was more appropriate to say no music or same song but a different recording.",244
+13,3218,U7s-EH1Bmbk,"Video 9 is very tricky because it's not (entirely) a different song, but it's also not the exact same 'recording', since it's only the drums. Btw - this is my favorite Bob Marley song, so this HIT was very enjoyable!! Great song selection.",239
+14,1536,4rG0xVfW_0Q,"Video 2 does not work, there is not even the typical YouTube red play button at the center, maybe it got deleted, maybe it is just geo-blocked in my country (Italy), maybe it is some sort of ""attention check"", but for sure I can't play it.",239
+15,2618,u0XxFRuyD_s,"I listened to each of these songs, but none of them had an excerpt or portion of the original song. While some may have had a similar beat, the overall song was different enough to show that they were all playing a different song.",230
+16,3521,beTsDOBRs8I,"Some videos contained snippets of reference to the song I Love Rock 'n' Roll by singer Joan Jett, but not the reference to I Love Rocky Road. So despite the songs being close I decided to check the option ""...a different song.""",227
+17,2487,QKPGbEeuywc,"The ""Reference Song"" seemed to be a foreign-language version of ""Enter Sandman"" by Metallica, so English-language versions of that song are deemed to be ""same song but a different recording"" in the ratings above.",212
+18,487,aiKFdR48pRA,"Video 8  combines (interweaves) the songs ""The Air That I Breathe"" (target song) and ""Creep"" (a song that allegedly plagiarized The Air That I Breathe) essentially making a new song, so I marked it as such.",206
+19,2023,wOG5EBGOktw,"I think you guys should put in the exemples, not a live show but a cover of the song or something line that so people could be know that is the same song but a different recording and not be confused.",200
+21,2215,JBWQqWxTNQk,"One video was not there (not available in my country), and I marked this one as ""does not contain music"". It would help to have an option to mark for videos that are absent or otherwise not playable.",199
+20,3521,beTsDOBRs8I,"#3 was the original song, the reference and #9 are samples of it. The reference song was a parody of #8. #9 is only a sample of #8 that was why I answered that #8 and #9 are different songs entirely.",199
+22,214,55XIdavZxCQ,"the HIT and the relevant videos take a little to load, and sometimes they freeze for a second or two (not sure it has to do with the HIT btw, it could be my laptop/connection). Very nice HIT btw!",195
+23,3146,ppe93s21dBw,I focused intently to answer correctly so please don't reject my work.  I took a chance based on the approval rating.  Thanks for the HIT!  I did my best and hope the data is useful!,182
+24,369,6U_2UAgIOsY,For video 7 there are multiple songs that are played through the set. The second song played is the same song as the reference video so i went ahead and marked it as the same song.,180
+25,1280,UkGXUn0Kuuw,"Video 4 says it's unavailable, so I'm assuming it needs to be labeled with the ""video does not contain music option"" since there's no mention of it in the instructions.",168
+26,4148,pPaDcTnXs6s,"Some of the videos technically did not contain musical instruments, but voice only, archipela, can be considered music and the voice an instrument for the music.",161
+27,5159,ycrhIpd4ZWU,I liked very much this survey. I'd love to do more of it. My sugestion is to adjust the size of the video to be bigger than this for we can evaluate better.,156
+28,214,55XIdavZxCQ,"This task was fun. Enjoy The Silence is a very characteristic song, so it was somewhat easy to find this song in the other videos. I liked this experiment.",155
+29,1393,9-V0lwnWVTA,"I'm not sure how I should mark videos like number 8. It has a bit of background music but is mostly a person talking. I marked it as ""a different song"".",152
+30,1035,Mk9yQt7FvCI,"This experiment was interesting, I enjoyed doing it because I love music. If it was a song I knew, it would be easier. PS: Video 4 is not working.",146
+31,96,1s_5oZqqVQk,"Reference video didn't contain song/lyrics, only music. So It's confusing if we should check for music only in rest of videos or song as well.",142
+32,157,Wo4GJ6YdDeY,Video 2 has background music accompanying the video. I marked it as a differrent song since there is music but it is not the Reference Song.,140
+33,1521,MMjKNM_Q3S0,All the videos are very good and innovative. In this the video have the various factors and the many fields related in this the videos.,135
+34,794,T3_cgE8HzKo,"Seems that everything is easy to understand. The two other songs that are of the song, did sound different to the reference song.",129
+35,1680,GPC3vj_qDVU,"Nice task! Video 8 IMO is the best version of the song btw, and video 3 was terrible, listening to it was a horrible experience",127
+36,4504,HreJxxfzrMw,"I love working on this task, Music is my life, thank you for providing such a fun and entertaining HIT! God bless all of You!",125
+37,1210,CM-EgnGvySA,One of the great HIT I have worked on. Its pretty entertaining and would love to work on this kind of HITs in future.,117
+38,2447,YQWszrZHBPI,In the task is to identify for video each of the other video matching the song. in the task was easy to understand.,115
+40,2195,j7JF6tf7OSQ,The music in Video4 is an entirely different song and sound but there is no option that matches it appropriately.,113
+39,3147,8NZBljRfXjU,"Last song MAY have similar chord progression, but is is millions of miles different so almost impossible to know.",113
+41,2629,oriSHsk9NSU,This survey is very Interesting and easy to do it. If I do any mistake please don't reject my work please.,106
+42,4504,HreJxxfzrMw,"Two of the videos were not listed as ""Not available on Youtube"", so I listed them as containing no music.",105
+43,1241,V8yQFE1kgbU,"Video 3 I judged the background musical score, even if the video is mainly consisting of spoken dialogue.",105
+44,81,P6tNV3DyaFU,In the survey was video about you tube. I like very much of this survey. It is easy to understand.,98
+45,2163,AeJ9d-U55TI,"Video 8 sounds like an instrumental cover of the reference, but it's hard to tell.",82
+46,96,1s_5oZqqVQk,"Thank you, you really made my day with this interesting task! God bless You! <3",79
+47,1035,Mk9yQt7FvCI,Nice. One video was not available. I marked it as video does not contain music.,79
+48,1393,9-V0lwnWVTA,Videos 5 and 9 have a small snippet that is identical to the reference sound.,77
+51,1280,UkGXUn0Kuuw,"Video 5 has no audio at all (I reloaded the HIT twice, but still no audio).",75
+49,2666,oB1p7b6emAg,In the study was you Tube base videos. In the survey was easy to undestand.,75
+50,2618,u0XxFRuyD_s,"Video 1 contains intro music, but it is not the same as the reference song.",75
+52,4478,W68CZUT6FaE,Video 10 is the same song but it's just the drums from the backtrack solo.,74
+53,1333,lUb02EGeMuA,"That was challening but, thanks, it is still an highly enjoyable task! ;-)",74
+54,1848,SSvhWM9s5SE,The Third video was country restricted so I could not listen to that one.,73
+55,838,TtGrYYTRcAg,Interesting task to do that. I am waiting to do your task in future also,72
+56,2858,UtZWYsJlGPo,very interesting..........some videos are very difficult for identified,71
+57,1919,VQgb-jR1MdU,Video 2 is unavailable. It would be nice if we had an option for that.,70
+60,2163,AeJ9d-U55TI,Video number one contains (different) backing music only. Thank you.,68
+59,3952,zLN3-j3WxFQ,IT IS AN INTERESTING TASK TO DO AND I ENJOY IT WHILE DOING THIS TASK,68
+58,4478,W68CZUT6FaE,Video 3 is silent. It had its music removed due to copyright strike.,68
+61,63,uhWb-Avb9Yc,Very nice to the Excerpts and cover versions of songs on YouTube.,65
+62,993,YTs23jFAAes,The most of songs very beautiful and very so much in the songs.,63
+63,4931,E5sVhFnrlTw,IT IS INTRESTING TASK TO DO AND ENJOY IT MOST WHILE DOING IT',61
+64,526,97PAY9wl63E,Love this survey!  Wish there were more songs!!!!  Too short!,61
+65,1163,e0fzLOjCaJA,Its is very interesting task to do and i enjoy it while do it,61
+66,2195,j7JF6tf7OSQ,"Not only that, but the lyrics of the song were good to hear.",60
+67,1004,hTWKbfoikeg,"Its good, and i am glad to share my opinions with your team",59
+69,3220,-UvtOQnPE5c,very nice music.. i rally very happy watch this video's..,57
+68,96,1s_5oZqqVQk,It is good study and i listening the music and this task.,57
+70,3146,ppe93s21dBw,This survey is easy to understand and I like the survey.,56
+71,667,TLV4_xaYynY,Videos 2-4 would not play any music for me. Thank you!!,55
+72,1332,viCwfegDamw,It is easy to understand. In the video will be YouTube.,55
+73,1205,IgJq6v6gA_4,"This work is fun, keep posting more hits!! Thank you.",53
+74,1332,viCwfegDamw,"VERY GOOD TO LISTEN ABOUT COVER SONGS, ALBUM SONGS.",51
+75,1919,VQgb-jR1MdU,VERY HAPPY TO LISTEN TO COVER SONGS AND ALBUM SONGS,51
+76,3016,R0HUOfpQI_g,NICE VIDEOS AND NICE SONGS ARE THERE. NICE SURVEY.,50
+78,1536,4rG0xVfW_0Q,Video Quality is Very Good and Liked All Videos.,48
+77,526,97PAY9wl63E,Video 9 contains guitar instruction and no songs,48
+79,1280,UkGXUn0Kuuw,"Video 4 is unavailable, and video 5 is muted.",45
+81,922,po2y0gKBceY,"I loved this task, very fun and interesting.",44
+80,4148,pPaDcTnXs6s,Very interesting in this music and enjoy it.,44
+82,1520,P1Y_9mi63ps,All the videos are very good and innovative,43
+83,3952,zLN3-j3WxFQ,Very very hard to identify but amazing one.,43
+84,1332,viCwfegDamw,ALL ARE GOOD BUT ONE 9TH VIDEO DOESN'T WORK,43
+85,1944,EyAbCbgiGFg,it is very hard to find the music and songs,43
+86,694,x_QkY8g_fHU,All Song Amazing and very Interesting task,42
+87,487,aiKFdR48pRA,It was very interesting and very creative,41
+89,1074,Am38jAK38DU,Happy to participate in this music study.,41
+88,3558,kieGY9dXDyM,This job is very interesting and exciting,41
+90,5159,ycrhIpd4ZWU,nice experience to watch vedio different,40
+91,350,7WHdnX2cDCQ,very interesting music and good survey,38
+92,4478,W68CZUT6FaE,Its good to listening the sing & music,38
+93,4148,pPaDcTnXs6s,"Beautiful song, thanks for the videos.",38
+94,1385,MRsDEuV9sS4,This is a nice task and I love music.,37
+95,3584,01Kb94g3_Dg,These are all correctly done. Thanks.,37
+96,1241,V8yQFE1kgbU,IT S   VERY GOOD  AND   THE VERY NICE,37
+99,2195,j7JF6tf7OSQ,good and very interesting to hearing,36
+97,838,TtGrYYTRcAg,video 7 not available in the country,36
+98,1928,Dle5XEVmwCk,it is very hard to find out the song,36
+101,2666,oB1p7b6emAg,"nice ,I want really like the survey",35
+100,1919,VQgb-jR1MdU,"Video #2 says, ""Video Unavailable.""",35
+105,2618,u0XxFRuyD_s,I am very enjoyed to do this work.,34
+106,1397,qPseJvXVVfo,Happy to be the part of experiment,34
+107,1536,4rG0xVfW_0Q,good and feel nice and interesting,34
+104,2618,u0XxFRuyD_s,Its is very interesting task to do,34
+103,1211,JsgJTvGscF4,Happy to be the part of experiment,34
+102,4998,VP87KQOxOFc,It is very innovative and new one.,34
+108,96,1s_5oZqqVQk,Great pieces of songs to compare.,33
+109,96,1s_5oZqqVQk,Reference video was unavailable.,32
+110,1521,MMjKNM_Q3S0,Its interesting version survey..,32
+111,4504,HreJxxfzrMw,This survey is very interesting.,32
+112,1332,viCwfegDamw,This survey is very interesting.,32
+113,765,YaTQ7HMo1y4,video quality and speed is good.,32
+114,993,YTs23jFAAes,VERY INTERESTING AND VERY USEFUL,32
+115,2447,YQWszrZHBPI,I am very happy to do this work.,32
+116,21,STuFITcXas0,Video 10 contains guitar lesson,31
+117,3972,WN7mdpRUTsA,"great task, thank you so much!",30
+119,157,Wo4GJ6YdDeY,very interesting video survey,29
+120,1332,viCwfegDamw,good very nice song and music,29
+118,2666,oB1p7b6emAg,"nice HIT, no issues to report",29
+121,58,mEl_eQQ_q0c,it was a good hit. thank you,28
+122,993,YTs23jFAAes,I like this songs very much,27
+123,2163,AeJ9d-U55TI,I like this hit! Thank you!,27
+124,4504,HreJxxfzrMw,Study was very interesting.,27
+125,1919,VQgb-jR1MdU,i audio very clear and good,27
+126,4478,W68CZUT6FaE,Study was very interesting.,27
+127,1241,V8yQFE1kgbU,"Nothing to add, thank you.",26
+128,3584,01Kb94g3_Dg,I love all of these posts.,26
+129,765,YaTQ7HMo1y4,Happy about participating.,26
+130,21,STuFITcXas0,"Very cool hit, thank you!!",26
+133,157,Wo4GJ6YdDeY,good and very interesting,25
+134,3913,iqb2zGGvEsI,very clear audio and good,25
+135,1009,3HetQa0eyYk,This task is interesting.,25
+132,4237,xzhNRwsebfE,Good time and Experience.,25
+131,1211,JsgJTvGscF4,audio very clear and good,25
+136,1680,GPC3vj_qDVU,Thanks for the fair pay!,24
+137,2286,ky4xcWU7Z2U,THIS STUDY WAS VERY WELL,24
+138,21,STuFITcXas0,video 8 is not available,24
+139,157,Wo4GJ6YdDeY,"All clear, no problems.",23
+140,2195,j7JF6tf7OSQ,Need high quality audio,23
+143,1280,UkGXUn0Kuuw,Happy To Participate..,22
+145,1397,qPseJvXVVfo,Good music and survey.,22
+144,2156,cZ1I9WXmIbY,it is very interesting,22
+142,897,gBjY8DagQXs,It is very interesting,22
+141,4998,VP87KQOxOFc,it was very interested,22
+155,1976,x4ixBuhQGsw,very interesting task,21
+162,2666,oB1p7b6emAg,Happy to participate.,21
+161,4998,VP87KQOxOFc,very interesting task,21
+160,4478,W68CZUT6FaE,Very interesting task,21
+159,487,aiKFdR48pRA,Very interesting task,21
+158,794,T3_cgE8HzKo,very interesting task,21
+157,3792,QdcxG65szNU,very interesting task,21
+156,3146,ppe93s21dBw,very interesting task,21
+148,4478,W68CZUT6FaE,very interesting task,21
+154,4844,roqqACI1ABY,very interesting task,21
+149,1944,EyAbCbgiGFg,very interesting task,21
+147,4478,W68CZUT6FaE,Thank you for the job,21
+146,2917,TsjJeBpsU-o,very interesting task,21
+153,348,k6_8c0CyK3c,very interesting task,21
+150,3039,kLNkBaMa_vc,VERY INTERESTING TASK,21
+152,2195,j7JF6tf7OSQ,Very Interesting task,21
+151,4951,yHXx3eh5FRA,VERY INTERESTING TASK,21
+170,2917,TsjJeBpsU-o,Very good experience,20
+176,96,1s_5oZqqVQk,good and interesting,20
+175,350,7WHdnX2cDCQ,Happy To Participate,20
+173,4931,E5sVhFnrlTw,ITS VERY INTERESTING,20
+172,1521,MMjKNM_Q3S0,its very interesting,20
+171,1009,3HetQa0eyYk,This survey is good.,20
+174,3147,8NZBljRfXjU,ITS VERY INTERESTING,20
+169,1332,viCwfegDamw,Good and interesting,20
+167,1163,e0fzLOjCaJA,Thi survey was good.,20
+166,4931,E5sVhFnrlTw,good and clear audio,20
+163,1944,EyAbCbgiGFg,"Good HIT, fun to do.",20
+165,1919,VQgb-jR1MdU,its very interesting,20
+164,694,x_QkY8g_fHU,good and clear audio,20
+168,2195,j7JF6tf7OSQ,Very beautiful task.,20
+181,348,k6_8c0CyK3c,I had a great time.,19
+184,350,7WHdnX2cDCQ,Love these surveys!,19
+183,3913,iqb2zGGvEsI,Good quality audios,19
+182,1004,hTWKbfoikeg,better to do always,19
+179,1163,e0fzLOjCaJA,nice quality audios,19
+180,4478,W68CZUT6FaE,IT WAS AMAZING WORK,19
+178,3005,P_95DOmt9Bc,Interesting survey.,19
+177,1009,3HetQa0eyYk,Interesting survey.,19
+193,3584,01Kb94g3_Dg,VERY NICE AND GOOD,18
+189,3220,-UvtOQnPE5c,i love this survey,18
+191,2195,j7JF6tf7OSQ,good and interest.,18
+192,1848,SSvhWM9s5SE,good sound quality,18
+188,1474,IXdNnw99-Ic,good and interest.,18
+186,569,dLnHL11VDKA,"great task, thanks",18
+185,1009,3HetQa0eyYk,interesting survey,18
+190,350,7WHdnX2cDCQ,Such a nice study.,18
+187,484,NZacSRcdN88,i love the survey.,18
+195,4478,W68CZUT6FaE,very interesting.,17
+196,694,x_QkY8g_fHU,interesting to me,17
+197,3484,MNcQnf7SL-A,Interesting task.,17
+194,3484,MNcQnf7SL-A,Interesting music,17
+205,3990,EZIug6yKCr4,INTERESTING TASK,16
+213,21,STuFITcXas0,very interesting,16
+212,3828,qrO4YZeyl0I,Love the song <3,16
+211,1919,VQgb-jR1MdU,Interesting task,16
+210,4951,yHXx3eh5FRA,interesting task,16
+208,2156,cZ1I9WXmIbY,Interesting task,16
+206,3909,4fndeDfaWCg,very interesting,16
+209,3016,R0HUOfpQI_g,I like this song,16
+204,214,55XIdavZxCQ,very interesting,16
+200,1474,IXdNnw99-Ic,had a great time,16
+198,3484,MNcQnf7SL-A,Interesting task,16
+199,2023,wOG5EBGOktw,very interesting,16
+207,1280,UkGXUn0Kuuw,Interesting task,16
+201,487,aiKFdR48pRA,Interesting task,16
+202,2215,JBWQqWxTNQk,Interesting task,16
+203,1536,4rG0xVfW_0Q,Interesting task,16
+214,5159,ycrhIpd4ZWU,nice experience,15
+216,4951,yHXx3eh5FRA,Very nice study,15
+217,1211,JsgJTvGscF4,GOOD EXPERIENCE,15
+218,4806,xMORbXArOc4,Good .Thank you,15
+219,3913,iqb2zGGvEsI,very good music,15
+220,1009,3HetQa0eyYk,good experience,15
+215,1474,IXdNnw99-Ic,GETTING ENJOYED,15
+221,350,7WHdnX2cDCQ,Very fun task!,14
+222,993,YTs23jFAAes,A2N8FYNKM133KF,14
+223,3828,qrO4YZeyl0I,Good and Super,14
+225,629,EBxk1Oq_ysE,Has been good,13
+226,1241,V8yQFE1kgbU,Has been good,13
+224,81,P6tNV3DyaFU,It was great.,13
+228,838,TtGrYYTRcAg,this is good,12
+227,1210,CM-EgnGvySA,NICE TO WORK,12
+229,993,YTs23jFAAes,all is good,11
+239,4951,yHXx3eh5FRA,GOOD SURVEY,11
+247,1474,IXdNnw99-Ic,good survey,11
+246,63,uhWb-Avb9Yc,Interesting,11
+245,838,TtGrYYTRcAg,interesting,11
+230,4806,xMORbXArOc4,interesting,11
+242,569,dLnHL11VDKA,Good Musics,11
+241,667,TLV4_xaYynY,Interesting,11
+240,2619,L7BjF2rceTw,INTERESTING,11
+244,4931,E5sVhFnrlTw,Interesting,11
+238,2629,oriSHsk9NSU,Good.Thanks,11
+233,1976,x4ixBuhQGsw,GOOD SURVEY,11
+237,1009,3HetQa0eyYk,Nice study.,11
+231,4148,pPaDcTnXs6s,interesting,11
+232,3913,iqb2zGGvEsI,INTERESTING,11
+243,214,55XIdavZxCQ,GOOD SURVEY,11
+234,1211,JsgJTvGscF4,It was good,11
+235,1241,V8yQFE1kgbU,It was good,11
+236,2629,oriSHsk9NSU,interesting,11
+260,1280,UkGXUn0Kuuw,good music,10
+272,629,EBxk1Oq_ysE,GOOD VIDEO,10
+270,724,9nPZE2DCZpY,good  task,10
+269,2487,QKPGbEeuywc,Thank You.,10
+268,3828,qrO4YZeyl0I,no comment,10
+267,1333,lUb02EGeMuA,Thank you.,10
+266,765,YaTQ7HMo1y4,Thank You.,10
+265,3146,ppe93s21dBw,Thank you.,10
+264,3005,P_95DOmt9Bc,NICE STUDY,10
+263,3952,zLN3-j3WxFQ,Thank You.,10
+262,1074,Am38jAK38DU,Thank you.,10
+271,3436,7W_zayTaGrQ,NICE STUDY,10
+261,348,k6_8c0CyK3c,Thank you!,10
+259,1241,V8yQFE1kgbU,Thank you.,10
+252,81,P6tNV3DyaFU,Thank you.,10
+258,2858,UtZWYsJlGPo,Thank you.,10
+249,3780,YEfJfkwl3Sw,Thank you!,10
+250,1332,viCwfegDamw,good audio,10
+251,3735,Yh1vRnp46zQ,Thank you.,10
+248,765,YaTQ7HMo1y4,Thank you.,10
+253,1520,P1Y_9mi63ps,Nice task.,10
+254,1004,hTWKbfoikeg,VERY  NICE,10
+255,3780,YEfJfkwl3Sw,Thank you.,10
+256,1297,knxBue4jnUA,good study,10
+257,2195,j7JF6tf7OSQ,Thank you.,10
+310,2858,UtZWYsJlGPo,Easy task,9
+300,1241,V8yQFE1kgbU,thank you,9
+301,724,9nPZE2DCZpY,easy task,9
+298,694,x_QkY8g_fHU,easy task,9
+303,4504,HreJxxfzrMw,Easy task,9
+304,3913,iqb2zGGvEsI,very good,9
+305,1211,JsgJTvGscF4,thank you,9
+306,3990,EZIug6yKCr4,Easy task,9
+307,3039,kLNkBaMa_vc,nice task,9
+308,1009,3HetQa0eyYk,THANK YOU,9
+309,58,mEl_eQQ_q0c,THANK YOU,9
+316,3100,4tDslyvh3g4,Very nice,9
+311,21,STuFITcXas0,Excellent,9
+312,3147,8NZBljRfXjU,easy task,9
+313,765,YaTQ7HMo1y4,easy task,9
+314,569,dLnHL11VDKA,EASY TASK,9
+315,1035,Mk9yQt7FvCI,easy task,9
+317,667,TLV4_xaYynY,very good,9
+318,1919,VQgb-jR1MdU,Excellent,9
+319,3100,4tDslyvh3g4,thank you,9
+320,3100,4tDslyvh3g4,THANK YOU,9
+321,1297,knxBue4jnUA,Easy task,9
+322,2215,JBWQqWxTNQk,THANK YOU,9
+299,1280,UkGXUn0Kuuw,Easy task,9
+302,3039,kLNkBaMa_vc,Easy task,9
+297,1393,9-V0lwnWVTA,good one.,9
+284,348,k6_8c0CyK3c,very nice,9
+296,1848,SSvhWM9s5SE,Excellent,9
+273,2629,oriSHsk9NSU,easy task,9
+274,4931,E5sVhFnrlTw,Easy task,9
+276,3952,zLN3-j3WxFQ,Excellent,9
+277,2447,YQWszrZHBPI,THANK YOU,9
+278,3005,P_95DOmt9Bc,Nice task,9
+279,63,uhWb-Avb9Yc,Easy task,9
+280,2156,cZ1I9WXmIbY,THANK YOU,9
+281,838,TtGrYYTRcAg,Thank you,9
+282,2629,oriSHsk9NSU,thank you,9
+283,993,YTs23jFAAes,THANK YOU,9
+275,2666,oB1p7b6emAg,easy task,9
+285,3990,EZIug6yKCr4,easy task,9
+291,3735,Yh1vRnp46zQ,Easy task,9
+286,1680,GPC3vj_qDVU,THANK YOU,9
+293,1397,qPseJvXVVfo,Thank you,9
+295,4931,E5sVhFnrlTw,EASY TASK,9
+292,487,aiKFdR48pRA,Easy task,9
+294,765,YaTQ7HMo1y4,Easy task,9
+290,1397,qPseJvXVVfo,easy task,9
+289,3792,QdcxG65szNU,easy task,9
+288,4844,roqqACI1ABY,easy task,9
+287,4844,roqqACI1ABY,THANK YOU,9
+323,350,7WHdnX2cDCQ,thankyou,8
+324,2023,wOG5EBGOktw,all good,8
+332,63,uhWb-Avb9Yc,nothing,7
+338,3558,kieGY9dXDyM,awesome,7
+337,1385,MRsDEuV9sS4,nothing,7
+336,1474,IXdNnw99-Ic,Nothing,7
+335,3558,kieGY9dXDyM,Nothing,7
+334,667,TLV4_xaYynY,nothing,7
+333,369,6U_2UAgIOsY,thanks.,7
+327,569,dLnHL11VDKA,Nothing,7
+331,81,P6tNV3DyaFU,nothing,7
+330,487,aiKFdR48pRA,nothing,7
+329,2858,UtZWYsJlGPo,Nothing,7
+328,3521,beTsDOBRs8I,nice g5,7
+326,2447,YQWszrZHBPI,nothing,7
+325,526,97PAY9wl63E,Nothing,7
+339,1680,GPC3vj_qDVU,I sati,6
+342,1976,x4ixBuhQGsw,nice.,5
+343,157,Wo4GJ6YdDeY,Good.,5
+340,81,P6tNV3DyaFU,Good.,5
+341,3016,R0HUOfpQI_g,Good.,5
+453,3100,4tDslyvh3g4,GOOD,4
+446,5159,ycrhIpd4ZWU,good,4
+447,5326,-4wkVoCFm8U,Good,4
+448,350,7WHdnX2cDCQ,nice,4
+449,3005,P_95DOmt9Bc,GOOD,4
+450,3735,Yh1vRnp46zQ,good,4
+463,3220,-UvtOQnPE5c,good,4
+452,3913,iqb2zGGvEsI,good,4
+454,3913,iqb2zGGvEsI,Good,4
+444,4237,xzhNRwsebfE,good,4
+455,484,NZacSRcdN88,good,4
+456,487,aiKFdR48pRA,Good,4
+457,3218,U7s-EH1Bmbk,Cool,4
+458,487,aiKFdR48pRA,GOOD,4
+459,2666,oB1p7b6emAg,GOOD,4
+460,4237,xzhNRwsebfE,Good,4
+461,157,Wo4GJ6YdDeY,good,4
+445,5326,-4wkVoCFm8U,good,4
+443,3147,8NZBljRfXjU,GOOD,4
+425,3735,Yh1vRnp46zQ,none,4
+433,4148,pPaDcTnXs6s,GOOD,4
+426,3780,YEfJfkwl3Sw,good,4
+427,348,k6_8c0CyK3c,nice,4
+428,3521,beTsDOBRs8I,good,4
+429,21,STuFITcXas0,GOOD,4
+430,3484,MNcQnf7SL-A,good,4
+431,5326,-4wkVoCFm8U,GOOD,4
+432,2666,oB1p7b6emAg,NONE,4
+434,4148,pPaDcTnXs6s,good,4
+442,214,55XIdavZxCQ,nice,4
+435,3220,-UvtOQnPE5c,Good,4
+436,3828,qrO4YZeyl0I,NONE,4
+437,3913,iqb2zGGvEsI,nice,4
+438,3909,4fndeDfaWCg,none,4
+439,3735,Yh1vRnp46zQ,GOOD,4
+440,4148,pPaDcTnXs6s,Good,4
+441,214,55XIdavZxCQ,Good,4
+462,21,STuFITcXas0,good,4
+486,350,7WHdnX2cDCQ,good,4
+464,3990,EZIug6yKCr4,good,4
+465,3147,8NZBljRfXjU,good,4
+423,1009,3HetQa0eyYk,good,4
+487,1004,hTWKbfoikeg,good,4
+488,1332,viCwfegDamw,nice,4
+489,1919,VQgb-jR1MdU,None,4
+490,1297,knxBue4jnUA,GOOD,4
+491,2666,oB1p7b6emAg,Good,4
+492,3828,qrO4YZeyl0I,GOOD,4
+493,4931,E5sVhFnrlTw,good,4
+494,4844,roqqACI1ABY,GOOD,4
+495,1332,viCwfegDamw,good,4
+496,3146,ppe93s21dBw,GOOD,4
+497,3218,U7s-EH1Bmbk,good,4
+498,3909,4fndeDfaWCg,good,4
+499,3218,U7s-EH1Bmbk,Good,4
+500,3828,qrO4YZeyl0I,good,4
+501,3146,ppe93s21dBw,good,4
+502,487,aiKFdR48pRA,Nice,4
+485,1385,MRsDEuV9sS4,Good,4
+484,1680,GPC3vj_qDVU,GOOD,4
+483,993,YTs23jFAAes,none,4
+473,897,gBjY8DagQXs,GOOD,4
+466,4806,xMORbXArOc4,GOOD,4
+467,922,po2y0gKBceY,none,4
+468,1397,qPseJvXVVfo,Good,4
+469,897,gBjY8DagQXs,nice,4
+470,1397,qPseJvXVVfo,good,4
+471,897,gBjY8DagQXs,Good,4
+472,1474,IXdNnw99-Ic,good,4
+474,4806,xMORbXArOc4,NICE,4
+482,4806,xMORbXArOc4,good,4
+475,1680,GPC3vj_qDVU,nice,4
+476,794,T3_cgE8HzKo,Good,4
+477,765,YaTQ7HMo1y4,good,4
+478,838,TtGrYYTRcAg,Good,4
+479,1393,9-V0lwnWVTA,GOOD,4
+480,4951,yHXx3eh5FRA,Nice,4
+481,21,STuFITcXas0,nice,4
+424,4951,yHXx3eh5FRA,GOOD,4
+451,1848,SSvhWM9s5SE,GOOD,4
+422,5326,-4wkVoCFm8U,Nice,4
+382,4504,HreJxxfzrMw,GOOD,4
+364,1241,V8yQFE1kgbU,GOOD,4
+365,1163,e0fzLOjCaJA,good,4
+366,5395,QdUDFkuUrN8,good,4
+367,1074,Am38jAK38DU,good,4
+368,1210,CM-EgnGvySA,good,4
+369,993,YTs23jFAAes,nice,4
+370,993,YTs23jFAAes,good,4
+371,4951,yHXx3eh5FRA,good,4
+372,1211,JsgJTvGscF4,NICE,4
+373,1035,Mk9yQt7FvCI,none,4
+374,1035,Mk9yQt7FvCI,good,4
+375,1241,V8yQFE1kgbU,None,4
+376,1280,UkGXUn0Kuuw,good,4
+377,1004,hTWKbfoikeg,Good,4
+378,1211,JsgJTvGscF4,good,4
+379,4931,E5sVhFnrlTw,nice,4
+380,1211,JsgJTvGscF4,nice,4
+363,694,x_QkY8g_fHU,Good,4
+362,2023,wOG5EBGOktw,good,4
+361,1280,UkGXUn0Kuuw,Good,4
+350,63,uhWb-Avb9Yc,nice,4
+421,1919,VQgb-jR1MdU,like,4
+344,629,EBxk1Oq_ysE,GOOD,4
+345,667,TLV4_xaYynY,Good,4
+346,667,TLV4_xaYynY,good,4
+347,2195,j7JF6tf7OSQ,nice,4
+348,1919,VQgb-jR1MdU,nice,4
+349,4504,HreJxxfzrMw,nice,4
+351,2195,j7JF6tf7OSQ,Good,4
+360,1332,viCwfegDamw,none,4
+352,2215,JBWQqWxTNQk,NONE,4
+353,5395,QdUDFkuUrN8,Good,4
+354,21,STuFITcXas0,Good,4
+355,1280,UkGXUn0Kuuw,nice,4
+356,765,YaTQ7HMo1y4,none,4
+358,1297,knxBue4jnUA,nice,4
+359,1919,VQgb-jR1MdU,good,4
+381,1280,UkGXUn0Kuuw,GOOD,4
+357,1919,VQgb-jR1MdU,GOOD,4
+383,629,EBxk1Oq_ysE,Good,4
+412,2618,u0XxFRuyD_s,GOOD,4
+405,569,dLnHL11VDKA,good,4
+406,629,EBxk1Oq_ysE,none,4
+407,2447,YQWszrZHBPI,good,4
+408,624,FaUpLStwCl8,good,4
+409,624,FaUpLStwCl8,Good,4
+410,2487,QKPGbEeuywc,good,4
+411,2487,QKPGbEeuywc,Good,4
+413,2618,u0XxFRuyD_s,good,4
+403,2629,oriSHsk9NSU,nice,4
+415,2629,oriSHsk9NSU,NONE,4
+416,2629,oriSHsk9NSU,Good,4
+417,2195,j7JF6tf7OSQ,well,4
+418,58,mEl_eQQ_q0c,good,4
+419,4478,W68CZUT6FaE,none,4
+384,1163,e0fzLOjCaJA,none,4
+420,2619,L7BjF2rceTw,GOOD,4
+404,2195,j7JF6tf7OSQ,none,4
+414,2629,oriSHsk9NSU,good,4
+402,1919,VQgb-jR1MdU,none,4
+393,4998,VP87KQOxOFc,good,4
+385,3952,zLN3-j3WxFQ,nice,4
+386,157,Wo4GJ6YdDeY,NICE,4
+401,694,x_QkY8g_fHU,good,4
+387,487,aiKFdR48pRA,good,4
+388,694,x_QkY8g_fHU,GOOD,4
+390,2156,cZ1I9WXmIbY,good,4
+391,2156,cZ1I9WXmIbY,Good,4
+392,63,uhWb-Avb9Yc,none,4
+389,3016,R0HUOfpQI_g,GOOD,4
+394,1919,VQgb-jR1MdU,Good,4
+399,3972,WN7mdpRUTsA,none,4
+395,1928,Dle5XEVmwCk,Good,4
+396,63,uhWb-Avb9Yc,Good,4
+400,724,9nPZE2DCZpY,LIKE,4
+397,4951,yHXx3eh5FRA,NICE,4
+398,4504,HreJxxfzrMw,good,4
+503,1928,Dle5XEVmwCk,na,2
+504,2619,L7BjF2rceTw,no,2
+570,4478,W68CZUT6FaE,,0
+571,4931,E5sVhFnrlTw,,0
+572,5326,-4wkVoCFm8U,,0
+573,4237,xzhNRwsebfE,,0
+575,4504,HreJxxfzrMw,,0
+574,4148,pPaDcTnXs6s,,0
+578,4806,xMORbXArOc4,,0
+577,5159,ycrhIpd4ZWU,,0
+576,4844,roqqACI1ABY,,0
+568,1009,3HetQa0eyYk,,0
+569,5395,QdUDFkuUrN8,,0
+560,1333,lUb02EGeMuA,,0
+567,1210,CM-EgnGvySA,,0
+566,21,STuFITcXas0,,0
+565,3913,iqb2zGGvEsI,,0
+564,1205,IgJq6v6gA_4,,0
+563,838,TtGrYYTRcAg,,0
+562,897,gBjY8DagQXs,,0
+561,922,po2y0gKBceY,,0
+559,1332,viCwfegDamw,,0
+558,1297,knxBue4jnUA,,0
+580,1280,UkGXUn0Kuuw,,0
+557,1074,Am38jAK38DU,,0
+579,1163,e0fzLOjCaJA,,0
+599,1241,V8yQFE1kgbU,,0
+581,765,YaTQ7HMo1y4,,0
+582,1211,JsgJTvGscF4,,0
+555,694,x_QkY8g_fHU,,0
+603,3016,R0HUOfpQI_g,,0
+602,569,dLnHL11VDKA,,0
+601,3039,kLNkBaMa_vc,,0
+600,487,aiKFdR48pRA,,0
+598,1385,MRsDEuV9sS4,,0
+597,1393,9-V0lwnWVTA,,0
+596,794,T3_cgE8HzKo,,0
+595,765,YaTQ7HMo1y4,,0
+594,3909,4fndeDfaWCg,,0
+593,350,7WHdnX2cDCQ,,0
+592,58,mEl_eQQ_q0c,,0
+591,63,uhWb-Avb9Yc,,0
+590,63,uhWb-Avb9Yc,,0
+589,81,P6tNV3DyaFU,,0
+588,96,1s_5oZqqVQk,,0
+587,157,Wo4GJ6YdDeY,,0
+586,214,55XIdavZxCQ,,0
+585,348,k6_8c0CyK3c,,0
+584,369,6U_2UAgIOsY,,0
+583,724,9nPZE2DCZpY,,0
+556,1035,Mk9yQt7FvCI,,0
+514,667,TLV4_xaYynY,,0
+554,1004,hTWKbfoikeg,,0
+517,3780,YEfJfkwl3Sw,,0
+527,624,FaUpLStwCl8,,0
+526,2618,u0XxFRuyD_s,,0
+525,2487,QKPGbEeuywc,,0
+524,2447,YQWszrZHBPI,,0
+523,1397,qPseJvXVVfo,,0
+522,1474,IXdNnw99-Ic,,0
+521,1520,P1Y_9mi63ps,,0
+520,3220,-UvtOQnPE5c,,0
+519,2917,TsjJeBpsU-o,,0
+518,3005,P_95DOmt9Bc,,0
+516,2286,ky4xcWU7Z2U,,0
+553,629,EBxk1Oq_ysE,,0
+515,3100,4tDslyvh3g4,,0
+513,3521,beTsDOBRs8I,,0
+512,3558,kieGY9dXDyM,,0
+511,3584,01Kb94g3_Dg,,0
+510,3484,MNcQnf7SL-A,,0
+509,3436,7W_zayTaGrQ,,0
+508,1521,MMjKNM_Q3S0,,0
+507,3218,U7s-EH1Bmbk,,0
+506,3147,8NZBljRfXjU,,0
+505,3146,ppe93s21dBw,,0
+528,3735,Yh1vRnp46zQ,,0
+529,2619,L7BjF2rceTw,,0
+530,3792,QdcxG65szNU,,0
+531,3828,qrO4YZeyl0I,,0
+552,2858,UtZWYsJlGPo,,0
+551,2666,oB1p7b6emAg,,0
+550,2629,oriSHsk9NSU,,0
+549,2629,oriSHsk9NSU,,0
+548,1536,4rG0xVfW_0Q,,0
+547,1680,GPC3vj_qDVU,,0
+546,1848,SSvhWM9s5SE,,0
+545,1928,Dle5XEVmwCk,,0
+544,1944,EyAbCbgiGFg,,0
+543,1976,x4ixBuhQGsw,,0
+542,1976,x4ixBuhQGsw,,0
+541,2023,wOG5EBGOktw,,0
+540,2156,cZ1I9WXmIbY,,0
+539,2163,AeJ9d-U55TI,,0
+538,2195,j7JF6tf7OSQ,,0
+537,2273,DYxWF-A2zq4,,0
+536,526,97PAY9wl63E,,0
+535,3972,WN7mdpRUTsA,,0
+534,484,NZacSRcdN88,,0
+533,4951,yHXx3eh5FRA,,0
+532,4998,VP87KQOxOFc,,0
+604,1919,VQgb-jR1MdU,,0

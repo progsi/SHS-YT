@@ -1,0 +1,67 @@
+;cue;origin
+0;duplicate;yesiler
+1;remaster;yesiler
+2;radio edit;yesiler
+3;translation;yesiler
+4;performance;yesiler
+5;demo;yesiler
+6;parody;yesiler
+7;within genre;yesiler
+8;genre;yesiler
+9;karaoke;yesiler
+10;live;yesiler
+11;standard;yesiler
+12;mashup;yesiler
+13;acoustic;yesiler
+14;medley;yesiler
+15;remix;yesiler
+16;cross genre;yesiler
+17;arrangement;yesiler
+18;quotation;yesiler
+0;classic music video;liikannen_traditional
+1;music video;liikannen_traditional
+2;alternative version;liikannen_traditional
+3;alternative;liikannen_traditional
+4;version;liikannen_traditional
+5;live music;liikannen_traditional
+6;live;liikannen_traditional
+0;clear;liikannen_userappropriated
+1;audio;liikannen_userappropriated
+2;hd;liikannen_userappropriated
+3;hq;liikannen_userappropriated
+4;lyrics;liikannen_userappropriated
+5;fan illustrated;liikannen_userappropriated
+6;fan;liikannen_userappropriated
+0;cover;liikannen_derivative
+1;dance;liikannen_derivative
+2;parody;liikannen_derivative
+3;user illustrated;liikannen_derivative
+4;derivative;liikannen_derivative
+0;official;smith_audio
+1;cover;smith_audio
+2;instrumental;smith_audio
+3;live;smith_audio
+4;remix;smith_audio
+5;tutorial;smith_audio
+0;official;smith_video
+1;dance;smith_video
+2;karaoke;smith_video
+3;live;smith_video
+4;lyrics;smith_video
+5;slides;smith_video
+6;still;smith_video
+7;tutorial;smith_video
+8;other;smith_video
+0;reaction;own
+1;vocal;own
+2;analysis;own
+3;chord;own
+4;melody;own
+5;how to;own
+6;how to play;own
+7;guitar;own
+8;piano;own
+9;drum;own
+10;harp;own
+11;bass;own
+12;flute;own
