@@ -21,10 +21,10 @@ This directory contains different notebooks for analysis of data.
 - `statistics.ipynb` basic stats, KDEs etc
 - `curation_analysis.ipynb` more profound analysis of amiguity annotations
 
-## Ambiguity Class
+## Uncertainty Class
 
 
-| Ambiguity              | Applies for | Description |
+| Uncertainty              | Applies for | Description |
 |------------------------|-------------|-------------|
 | Song: Difficult Cover   | Version |Strong changes in melody, harmony, timbre and rhythm which are expected in cover song identification. During annotation stronger changes of these characteristics make the classification for a human annotator difficult, especially if the annotator does not know the song.            |
 | Song: Drum-Only         |  Version & Non-Version | Only the drum track. Typically either isolated by automatic sound source separation, covered by a drummer or programmed in a drum engine.            |
