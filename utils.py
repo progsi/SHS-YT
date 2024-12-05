@@ -124,7 +124,7 @@ def get_dataset(model, dataset):
         data_path = os.path.join(base_path, model, dataset)
 
         # metadata file
-        data = pd.read_csv(os.path.join(data_path, 'data.csv'), sep=';')
+        data = pd.read_csv(os.path.join("data", f'{dataset}.csv'), sep=';')
 
         # model predictions
         ypred = torch.load(os.path.join(data_path, 'ypred.pt'))

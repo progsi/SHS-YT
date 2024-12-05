@@ -2,6 +2,12 @@
 
 Code for the analysis of SHS-YT, a dataset of videos crawled from YouTube based on seed songs in SHS100K-Test.
 
+## Getting Started
+We recommend using our conda environment. Install and activate by:
+```
+conda env create -f env.yml;
+conda activate shs-yty
+```
 ## Content
 
 ### Data
@@ -17,9 +23,10 @@ Code for the analysis of SHS-YT, a dataset of videos crawled from YouTube based 
 
 This directory contains different notebooks for analysis of data.
 
-- `benchmark.ipynb` benchmarking the datasets
+- `benchmark.ipynb` benchmarking the datasets (`Table 5` in the paper)
 - `statistics.ipynb` basic stats, KDEs etc
 - `curation_analysis.ipynb` more profound analysis of amiguity annotations
+- `pairs_analysis.ipynb` contains analyses from `Table 6`, `Table 7` and `Figure 5` from the paper and some additional analyses.
 
 ## Uncertainty Class
 
