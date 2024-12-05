@@ -280,7 +280,7 @@ def get_dataset_shs_seed_yt(model, seedq=False):
     preds_path = os.path.join(data_path, 'preds', model, dataset)
 
     # metadata file
-    data = pd.read_csv(os.path.join(data_path, f"{dataset}.csv"), sep=';').query("has_cqt_ch & has_cqt_20 & has_crema")
+    data = pd.read_csv(os.path.join(data_path, f"{dataset}.csv"), sep=';')
 
     # model predictions
     ypred = torch.load(os.path.join(preds_path, 'ypred.pt'))
