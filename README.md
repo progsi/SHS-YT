@@ -11,14 +11,19 @@ conda activate shs-yty
 ## Content
 
 ### Data
-
-- data directory `data`contains our annotated dataset `SHS-YT`and the benchmark set (`SHS-YT` combined with the songs corresponding songs for cliques from `SHS100K-Test`). Other datasets are Da-Tacos and SHS100K.
+- data directory `data`contains our annotated dataset `SHS-YT`and the benchmark sets (`SHS-YT` combined with the songs corresponding songs for cliques from `SHS100K-Test`). Other datasets are Da-Tacos and SHS100K.
 - the subdir `data/annotations` contains expert and worker comments
 - the subdir `data/preds` contains the square similarity matrix per model
 - the subdir `features`contains a sample of the audio features
 - `figs` contains the GUI of the MTurk experiment
 - `documentation` contains descriptions for our classes
 
+### Download and Extract
+To download and extract relevant features for the CSI task, you can use this repository: https://github.com/progsi/YTFeatureExtractor
+For example, to download the large benchmark dataset `SHS-SEED+YT` saved to `BENCHMARK_CSV_PATH`, run
+```
+python extract_list.py --listfile BENCHMARK_CSV_PATH -i YOUR_DATA_DIR
+```
 ### Code
 
 This directory contains different notebooks for analysis of data.
