@@ -1,5 +1,7 @@
 # SHS-YT
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14389156.svg)](https://doi.org/10.5281/zenodo.14389156)
+
 Code for the analysis of SHS-YT, a dataset of videos crawled from YouTube based on seed songs in SHS100K-Test.
 
 ## Getting Started
